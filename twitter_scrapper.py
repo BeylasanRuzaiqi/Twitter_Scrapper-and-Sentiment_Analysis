@@ -1,9 +1,9 @@
-from selenium import webdriver
 import json
 import os
 import io
 import re
 import time
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -41,8 +41,7 @@ def scrape_tweets(driver):
         # reload_button = WebDriverWait(driver, 40).until(
         #     EC.presence_of_element_located((By.CSS_SELECTOR, reload_button_css_selector))
         # )
-
-        # # Click the "reload" button
+        # Click the "reload" button
         # reload_button.click()
         WebDriverWait(driver, 40).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "div[data-testid='tweetText']"))
