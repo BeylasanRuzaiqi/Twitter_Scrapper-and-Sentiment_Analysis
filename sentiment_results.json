@@ -1,0 +1,5260 @@
+{
+  "Replies": [
+    {
+      "ID": 1,
+      "Text": "Embarking on a transformative journey, we are pleased to unveil the revamped PDO website - redefining our digital presence for an enhanced experience. \n\nExplore the all-new PDO website: https:// pdo.co.om/en/",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.78 %"
+      }
+    },
+    {
+      "ID": 2,
+      "Text": "الاخوه في شركة تنمية نفط عمان \nقسم الرواتب\n ...لدي استفسار عن رواتب الأرامل ؟\nهل يمكن التواصل معنا ... شكرا لكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "91.92 %"
+      }
+    },
+    {
+      "ID": 3,
+      "Text": "انتم كفو باغي اتزوج",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "84.65 %"
+      }
+    },
+    {
+      "ID": 4,
+      "Text": "#هيثم_بن_طارق #١١_يناير_تقدم_راسخ #عمان_نهضه_متجدده",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "46.33 %"
+      }
+    },
+    {
+      "ID": 5,
+      "Text": "ما يصير شهريين ما نستلم بطاقة دعم الوقود من محطة المها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "94.62 %"
+      }
+    },
+    {
+      "ID": 6,
+      "Text": "نريد وظائف شاغره معكم",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 7,
+      "Text": "السلام عليكم ورحمة الله وبركاتة حياكم الله \nالي من يهمه الأمر اريد اتواصل مع مسؤول في هذه شركه ساعدوني",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "69.66 %"
+      }
+    },
+    {
+      "ID": 8,
+      "Text": "ما يصير شهريين ما نستلم بطاقة دعم الوقود من محطة المها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "94.62 %"
+      }
+    },
+    {
+      "ID": 9,
+      "Text": "PDO SCAM",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.99 %"
+      }
+    },
+    {
+      "ID": 10,
+      "Text": "Congratulations to whole team",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.67 %"
+      }
+    },
+    {
+      "ID": 11,
+      "Text": "#I_SUPPORT_ALBEDO #SATEEC #energysaving #COP28",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.68 %"
+      }
+    },
+    {
+      "ID": 12,
+      "Text": "During the session, the speakers delved into the pivotal role of the industrial sector in expediting climate solutions, exploring the challenges & opportunities in this field, and proposed recommendations to contribute to Oman's journey towards achieving a sustainable future.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.39 %"
+      }
+    },
+    {
+      "ID": 13,
+      "Text": "بارك الله في الجميع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.72 %"
+      }
+    },
+    {
+      "ID": 14,
+      "Text": "@taher_aljunaibi FYI.",
+      "Language": "et",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 15,
+      "Text": "نتمنى من نصيب شركه النهضه للخدمات شركه لها خدمات ممتازة و مرموقه و معروفه في السلطنه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.38 %"
+      }
+    },
+    {
+      "ID": 16,
+      "Text": "مرحبًا . لدينا زيت للبيع، إذا لزم الأمر، أعلمونا بذلك\n00989188759133\nواتساپ",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "97.99 %"
+      }
+    },
+    {
+      "ID": 17,
+      "Text": "He provided insights into PDO's commitment and roadmap to achieve net-zero emissions by 2050, aligning with Oman Vision 2040.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.62 %"
+      }
+    },
+    {
+      "ID": 18,
+      "Text": "There are no jobs for foreigners?",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.7 %"
+      }
+    },
+    {
+      "ID": 19,
+      "Text": "God's books reward you",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.77 %"
+      }
+    },
+    {
+      "ID": 20,
+      "Text": "نصرة لأخوتنا في غزة ومايحدث لهم أمام مرأى الأمم المتحدة بكل منظماتها اللإنسانية ينبغي مقاطعة كل فعالياتها العقيمة؛ لزدواجية معاييرها بين شعوب العالم. @badralbusaidi @FMofOman",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "93.57 %"
+      }
+    },
+    {
+      "ID": 21,
+      "Text": "هل استخدام أبراج توربينات طاقة الرياح مجدي لو حسبنا تكاليف الشراء و التركيب و الصيانة والتشغيل؟\n\nناهيك عن ضعف الرياح أو انعدامها أحيانا.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "94.44 %"
+      }
+    },
+    {
+      "ID": 22,
+      "Text": "أما بعد…\nكرة القدم العمانية في أسوأ حالاتها.. ضعيفة في الظاهر والباطن، أرهقتها كثرة الاجتهادات والتنظير وأفسدتها النوايا الإنتخابية والوعود البراقة، وتكالبت عليها نفوس ونفسيات عجيبة  ،فتعددت المصالح وضاعت الأهداف وتاهت الخُطى..الوضع يزداد تعقيداً والنكسات تتوالى ولا أحد منهم…",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.97 %"
+      }
+    },
+    {
+      "ID": 23,
+      "Text": "كيف تتعامل مع الابتزاز الإلكتروني إن كنت أحد ضحاياه؟ #شرطة_عمان_السلطانية",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "58.76 %"
+      }
+    },
+    {
+      "ID": 24,
+      "Text": "منهجية أعزُ الرجال و أنقاهم السلطان قابوس بن سعيد طيب الله ثراه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "61.52 %"
+      }
+    },
+    {
+      "ID": 25,
+      "Text": "أحمد كانو : برانكو كان مدرب مسير ، والإتحاد العماني لا يريد أحداً يحتك معه في الأفكار، واستبعادي من المنتخب لم يكن فنياً بل إدارياً، لا أريد من الاتحاد أن يجعلني مديراً أو مدرباً ولكن نريد منتخباً يرفع الرأس حالنا حال الناس ! #الشعب_يريد_رحيل_اتحاد_الكره",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "85.49 %"
+      }
+    },
+    {
+      "ID": 26,
+      "Text": "This achievement highlights OBS's admirable dedication to the In-Country Value (ICV) initiative, demonstrating alignment with PDO's rigorous HSE and technical standards.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.89 %"
+      }
+    },
+    {
+      "ID": 27,
+      "Text": "Super",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.73 %"
+      }
+    },
+    {
+      "ID": 28,
+      "Text": "تنزيل الاموال عبر عبر اكرب والنخارة وتنزيل الاموال عبر دمسو ومجنقري\nتنزيل الاموال عبر سرقيلا\nفك السحر وعلاج التابعه للتواصل مـــــع الشيخ فقط عبر واتساب 00249967593118",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "84.77 %"
+      }
+    },
+    {
+      "ID": 29,
+      "Text": "I need job",
+      "Language": "fi",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 30,
+      "Text": "This was followed by a panel discussion moderated by Dr. Fatma Al Hajri, PDO Planning & Strategy Manager, focusing on \"Elevating Transformation Quality Management in Oman’s Energy Sector.\" The event concluded with an exhibition tour with the chief guest.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.66 %"
+      }
+    },
+    {
+      "ID": 31,
+      "Text": "I would like to have a job can I?",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "93.23 %"
+      }
+    },
+    {
+      "ID": 32,
+      "Text": "#الوقود_لغزه_الان",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 33,
+      "Text": "منور سعيد العبري",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.13 %"
+      }
+    },
+    {
+      "ID": 34,
+      "Text": "كيف يكون في تعاون بيننا http:// oceandrilling.co.uk",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "95.68 %"
+      }
+    },
+    {
+      "ID": 35,
+      "Text": "ما شاء الله مبادرة ممتازة ومشروع ناجح وفعال ومنتج للمستقبل ، كل التوفيق لكافة الكوادر الإدارية والعمالية في هذا المجال",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.43 %"
+      }
+    },
+    {
+      "ID": 36,
+      "Text": "وظفوني معكم انزين'",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.57 %"
+      }
+    },
+    {
+      "ID": 37,
+      "Text": "الله يرحمه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "78.88 %"
+      }
+    },
+    {
+      "ID": 38,
+      "Text": "Reply text not available",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.6 %"
+      }
+    },
+    {
+      "ID": 39,
+      "Text": "انا لله وانا اليه راجعون الله يرحمه ويغفر له ويسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.78 %"
+      }
+    },
+    {
+      "ID": 40,
+      "Text": "انا لله وانا اليه راجعون\nرحمة الله عليه وغفر له واسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.56 %"
+      }
+    },
+    {
+      "ID": 41,
+      "Text": "الله يرحمه و يغفر له",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "65.41 %"
+      }
+    },
+    {
+      "ID": 42,
+      "Text": "Reply text not available",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.6 %"
+      }
+    },
+    {
+      "ID": 43,
+      "Text": "The inauguration of the project came during a visit to water & agriculture projects in Dhofar by H.E Minister of Agriculture, Fisheries, and Water Resources, H.E President of OIA, & External Affairs & Value Creation Director at PDO & several officials from the two companies.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.93 %"
+      }
+    },
+    {
+      "ID": 44,
+      "Text": "Great!! However, I wish there is a syn across all the government entities to achieve net-zero. Sadly, we have seen thousands of century old Acacia trees (أشجار السّمر) والغاف been uprooted to accommodate for housing needs. Al-Batinah plain as an example.",
+      "Language": "la",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 45,
+      "Text": "دشن المشروع خلال جولة لتفقد المشاريع المائية والزراعية في محافظة ظفار والتي قام بها معالي الدكتور وزير الثروة الزراعية والسمكية وموارد المياه ومعالي رئيس جهاز الإستثمار العماني وبحضور المدير التنفيذي للشؤون الخارجية والقيمةالمضافة بشركة تنمية نفط عمان وعدد من المسؤلين من الشركتين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.05 %"
+      }
+    },
+    {
+      "ID": 46,
+      "Text": "جميل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.96 %"
+      }
+    },
+    {
+      "ID": 47,
+      "Text": "اقترح توزيع شتلات الليمون العماني لكل بيت",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "67.0 %"
+      }
+    },
+    {
+      "ID": 48,
+      "Text": "السلام عليكم ورحمة الله وبركاتة \nشي دعم للمواطنين صرم نسيجي وشتلات ليمون ومانجو",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "88.94 %"
+      }
+    },
+    {
+      "ID": 49,
+      "Text": "في اي منطقة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.92 %"
+      }
+    },
+    {
+      "ID": 50,
+      "Text": "بالتوفيق ان شاء الله وهذا المشروع بالإضافة لدوره في تحقيق الحياد الكربوني من خلال التخلص الامن من ثاني أكسيد الكربون فهو ايضا يساهم في تحقيق الامن الغذائي.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "91.8 %"
+      }
+    },
+    {
+      "ID": 51,
+      "Text": "The current operating model and major ongoing projects, as well as initiatives in In-Country Value (ICV), social investment and training opportunities for Omanis.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.8 %"
+      }
+    },
+    {
+      "ID": 52,
+      "Text": "توفير طائرات للجنوب افضل ويقلل من الحوادث",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "54.79 %"
+      }
+    },
+    {
+      "ID": 53,
+      "Text": "هل سيكون هناك فرص عمل للباحثين عن عمل؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.32 %"
+      }
+    },
+    {
+      "ID": 54,
+      "Text": "توني كروس",
+      "Language": "ug",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 55,
+      "Text": "هل متوفر وظائف لديكم؟\nسائق او ميكانيك",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 56,
+      "Text": "Antichrist – Al Dajjal. Soon the time will come for the appearance of Dajjal, the events are already happening. #MuhammadQasimImamMahdi ’s several visions about the appearance of Dajjal and his chaos. https:// youtube.com/shorts/YPqbmJ8 Yzzw …",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.14 %"
+      }
+    },
+    {
+      "ID": 57,
+      "Text": "من أكثر من اسبوعين وانا احاول اسجل ابنتي فالصف التمهيدي لماذا لايكون موقعكم احترافي يقال ان هذا الموقع فاز بجائزة لكن الواقع كل به مشاكل والموقع لا يواكب الخدمات الإلكترونية ارجو تصحيح الموقع بصوره افضل من كذا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "75.46 %"
+      }
+    },
+    {
+      "ID": 58,
+      "Text": "ياوبوي ودىو عنكم هذا كله قبل راقبو المدارس في محافظة البريمي مقاصف مافيها اكل قسما بالله بنتي مع ربيعتها كل يوم يشتكو عن هالموضوع انروح انراجع يقولون انرتب الامور مع ان الحكومه تعطيها ٥٠٠ بيسه او ما تشتري شي فالاحسن خلي يعطونا المبلغ كاش لان المدرسه تاخذ فلوس حق نفسها والله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.16 %"
+      }
+    },
+    {
+      "ID": 59,
+      "Text": "#تهميش_معلمات_الحاسوب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "50.09 %"
+      }
+    },
+    {
+      "ID": 60,
+      "Text": "#تقليص_مناهج_السادس",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 61,
+      "Text": "#تهميش_معلمات_حاسوب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "78.93 %"
+      }
+    },
+    {
+      "ID": 62,
+      "Text": "مبادرة طيبة لتشجيع على الابتكار واستغلال المواهب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "82.11 %"
+      }
+    },
+    {
+      "ID": 63,
+      "Text": "وقعت وزارة #التربية_والتعليم اتفاقية تعاون مع شركة صناعة الكابلات العمانية لتطبيق برنامج (Kids in STEM) والذي يهدف إلى تشجيع أكثر من (260) طالبًا وطالبة على البحث والابتكار من خلال إشراكهم في ورش تطبيقية في مجال STEM #تعلم_مستدام",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "97.23 %"
+      }
+    },
+    {
+      "ID": 64,
+      "Text": "#تهميش_معلمات_حاسوب @EduGovOman @Labour_OMAN @OMAN_MOF إلى متى سنظل نناشد بحقوقنا توظيف باقي التخصصات في الاسابيع الماضية الا تخصصنا رغم الاحتياج لم توجدوا حلول بقضيتنا إلى متى سنظل نطالب بتوظيفنا كباقي التخصصات",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "83.97 %"
+      }
+    },
+    {
+      "ID": 65,
+      "Text": "نوجه الشكر لوزارة التربية والتعليم على الجهود المبذولة في الرقي بجودة التعليم ولكن نلتمس من الوزارة توفير معلم لمادة اللغة الإنجليزية لصف التاسع ٥ حيث هذا الشهر الثاني دخل منذ بداية الدراسة ولا يوجد معلم يدرس أبنائنا مدرسة كعب بن سور ولاية المصنعة محافظة جنوب الباطنة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "86.22 %"
+      }
+    },
+    {
+      "ID": 66,
+      "Text": "@SultanHaithamb1 @Haitham_AlSaeed @StateAudit_Oman @Oman_GC @2040_om @EduGovOman @moessoman @ss_governor_ صفوف أول أبتدائي\nلايوجدلديهم\nمعلم مجال أول\nلغةعربيةوتربيةأسلاميةرغم\nمتابعةأولياءالأمورمدرسةروادالمكارم\nخلال\nشهرلمديريةتربيةبجنوب الشرقيةبصور\nمازال\nطلاب1يذهبون للمدرسةبلاتعليم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "97.9 %"
+      }
+    },
+    {
+      "ID": 67,
+      "Text": "السلام عليكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "76.26 %"
+      }
+    },
+    {
+      "ID": 68,
+      "Text": "We invite you to submit your applications by the deadline of 5 October 2023, either through PDO Daleeli: https:// apps.pdo.co.om/vcu/external/? reload … or via email at ICV.awards@pdo.co.om.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "70.15 %"
+      }
+    },
+    {
+      "ID": 69,
+      "Text": "#متقاعدوا_الشركة_يناشدونكم :-\nهل يعقل أن يفرق بين الموظف والمتقاعد في الخدمات الصحية التي تقدمها الشركة أليس هذا المتقاعد هو من أفنى حاله وصحته و أعطى الأولوية لعمل الشركة لسنوات طوال بما أن الشركة رائدة في الخدمات المجتمعية، وهي أكبر الشركات التي يقتدى بها. نسأل…",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "94.36 %"
+      }
+    },
+    {
+      "ID": 70,
+      "Text": "#company_retiree_calling :- We need your attention \n\nIs it reasonable to differentiate between active employee and a retiree in the health services provided by the company?\n\nSince the company is a leader in community services. And lead others by examples We ask company…",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "97.97 %"
+      }
+    },
+    {
+      "ID": 71,
+      "Text": "Topic locally & internationally. During the session, the speakers delved into the role of the energy sector in expediting climate solutions,exploring the challenges & opportunities in this field,and proposed recommendations to contribute towards achieving a sustainable future",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.72 %"
+      }
+    },
+    {
+      "ID": 72,
+      "Text": "سيكل تشتريه الشركة ب 500 ريال وهو ما يسوى 20 ريال\nيعني اسحب خفض تكاليف الصيانة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "44.93 %"
+      }
+    },
+    {
+      "ID": 73,
+      "Text": "لكن سعرها ٥ اضعاف سعر المعدني تقريبا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "68.11 %"
+      }
+    },
+    {
+      "ID": 74,
+      "Text": "تاريخ كم الدوره",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "94.87 %"
+      }
+    },
+    {
+      "ID": 75,
+      "Text": "احنا نريد احد يتابع مشاريعنا يكون يخصصو لجنه من مسقط تشوف احولنا ايش ناقصنا عشان ندعمكم ولكن للاسف مهتمين في اشياء ما لها معني ولا ينتظو لي ناس التي لها جذور في الارض او لها سنوات طويله فعمل يحبطو الواحد حتي يقتلوه ولا احد يفكر فيه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.31 %"
+      }
+    },
+    {
+      "ID": 76,
+      "Text": "نرسّخ نهج المشاركة والحوار..\nنتطلع إلى مشاركة روادنا في محافظات جنوب الباطنة، الداخلية، الوسطى بأفكارهم ومبادراتهم الطموحة. للتسجيل: https:// forms.sme.gov.om/viewer/B5837BE 5-8D28-4488-95A5-DE579C01BC7C … #لقاء_روّاد_الأعمال",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.46 %"
+      }
+    },
+    {
+      "ID": 77,
+      "Text": "The informative session took place in the Wilayat of Haima as part of the ‘Saai'f Al Wusta’ activities and was held under the auspices of the Deputy Wali of Haima, Sheikh Saeed bin Hamad bin Ahmed Al Munji #PDO",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.72 %"
+      }
+    },
+    {
+      "ID": 78,
+      "Text": "Providing a platform for industry experts to connect, share knowledge and foster collaborations within the maintenance sector.\nGSMR stands as the foremost non-profit organisation for professionals in maintenance, reliability and asset management within the Arabian Gulf region.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.88 %"
+      }
+    },
+    {
+      "ID": 79,
+      "Text": "The agreement intends to facilitate the growth of PDO staff in Shell’s headquarters and affiliate offices, while also granting access to Shell’s leadership, technical, and non-technical development/training programmes.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.72 %"
+      }
+    },
+    {
+      "ID": 80,
+      "Text": "تقرير| البرنامج الوطني للاستدامة المالية وتطوير القطاع المالي #مركز_الأخبار",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "90.26 %"
+      }
+    },
+    {
+      "ID": 81,
+      "Text": "ماشاءالله تبارك الرحمن\nالحمدلله\nاللهم زد وبارك",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.55 %"
+      }
+    },
+    {
+      "ID": 82,
+      "Text": "Great..",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.34 %"
+      }
+    },
+    {
+      "ID": 83,
+      "Text": "بركه وانتاج دايم يارب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "94.94 %"
+      }
+    },
+    {
+      "ID": 84,
+      "Text": "تقرير| البرنامج الوطني للاستدامة المالية وتطوير القطاع المالي #مركز_الأخبار",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "90.26 %"
+      }
+    },
+    {
+      "ID": 85,
+      "Text": "جديد اقوى وافضل أنواع المقويات للعلاقة الزوجية وبكافة الأنواع كريمات تكبير حبوب آمنة بخاخ \n\nاجهزة للتكبير علكة ° وقطرات والمزيد من المنتجات المرغوب بها تواصل معي وستجد ما يسرك قم بزيارة حسابي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "93.33 %"
+      }
+    },
+    {
+      "ID": 86,
+      "Text": "أسأل من القلب إلى الشعب العماني ، أعطوني فرصة للقاء جلالة السلطان هيثم بن طارق ، تقبل الله صلاتي.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.63 %"
+      }
+    },
+    {
+      "ID": 87,
+      "Text": "تكرما بغيت رقم هاتف المكتب الرئيسي للشركة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "79.79 %"
+      }
+    },
+    {
+      "ID": 88,
+      "Text": "The forum showcased OQ's commitment to water resources management and water positivity in the energy industry, emphasising global water conservation efforts, risk analysis, reduced consumption, and modern technology integration for agile water resource management.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.95 %"
+      }
+    },
+    {
+      "ID": 89,
+      "Text": "سويسرا والا صلالة ؟! #خريف_صلالة_2023 #خريف_ظفار_2023 #مساء__الخير #صباح_الخير",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "98.35 %"
+      }
+    },
+    {
+      "ID": 90,
+      "Text": "الله يرحمه ويغفر له ويسكنه فسيح جناته يارب العالمين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "90.86 %"
+      }
+    },
+    {
+      "ID": 91,
+      "Text": "الله يرحمه ويغفر له ويسكنة فسيح جناته ويجعل قبره روضة من رياض الجنة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "61.7 %"
+      }
+    },
+    {
+      "ID": 92,
+      "Text": "رحمة الله عليك ياسالم.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "90.55 %"
+      }
+    },
+    {
+      "ID": 93,
+      "Text": "الله يرحمه ويغفر له",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "38.96 %"
+      }
+    },
+    {
+      "ID": 94,
+      "Text": "ربي يرحمه ويغفر له",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "45.59 %"
+      }
+    },
+    {
+      "ID": 95,
+      "Text": "الله يرحمه ويغفر له ويرحم موتانا وموتا المسليمن يارب العالمين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "85.82 %"
+      }
+    },
+    {
+      "ID": 96,
+      "Text": "إنا لله وإنا إليه راجعون رحمه الله وتغمده في واسع رحمته وأسكنه فسيح جناته والهم أهله وذويه الصبر والسلوان ولا حول ولا قوة الا بالله العلي العظيم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.9 %"
+      }
+    },
+    {
+      "ID": 97,
+      "Text": "اللهم امين ويعوض شبابه فالجنة يارب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "88.71 %"
+      }
+    },
+    {
+      "ID": 98,
+      "Text": "إِنَّا لِلّهِ وَإِنَّا إِلَيْهِ رَاجِعونَ\nاللهم ابدله داراً خيراً من داره واهلاً خيراً من اهله وادخله الجنة واعذه من عذاب القبر ومن عذاب النار",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "54.34 %"
+      }
+    },
+    {
+      "ID": 99,
+      "Text": "الله يرحمه ويغفر له ويسكنه فسيح جناته إنا لله وإنا إليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.52 %"
+      }
+    },
+    {
+      "ID": 100,
+      "Text": "رحمه الله وغفر له وأسكنه الفردوس الأعلى وألهم أهله وذويه ومحبيه الصبر والسلوان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "44.59 %"
+      }
+    },
+    {
+      "ID": 101,
+      "Text": "الله يرحمه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "78.88 %"
+      }
+    },
+    {
+      "ID": 102,
+      "Text": "انا لله وانا اليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.24 %"
+      }
+    },
+    {
+      "ID": 103,
+      "Text": "رحمه الله وغفر له وأسكنه الفردوس الأعلى وألهم أهله وذويه ومحبيه الصبر والسلوان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "44.59 %"
+      }
+    },
+    {
+      "ID": 104,
+      "Text": "انا لله وانا اليه راجعون الله يرحمه ويغمد روحه الجنة ويلهم اهله وذويه الصبر والسلوان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.57 %"
+      }
+    },
+    {
+      "ID": 105,
+      "Text": "الله يرحمه ويغفر له ويسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "91.49 %"
+      }
+    },
+    {
+      "ID": 106,
+      "Text": "الله يرحمه ويغفر له",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "38.96 %"
+      }
+    },
+    {
+      "ID": 107,
+      "Text": "يارب اللهم امين ويعوض شبابه فالجنة يارب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "83.79 %"
+      }
+    },
+    {
+      "ID": 108,
+      "Text": "الله يرحمه ويغفرله ويجبر قلوب أهله ومحبيه..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "87.02 %"
+      }
+    },
+    {
+      "ID": 109,
+      "Text": "نسأل الله له الرحمة والمغفرة والعتق من النار وأن يسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "87.53 %"
+      }
+    },
+    {
+      "ID": 110,
+      "Text": "انا الله وانا اليه راجعون الله يرحمه ويغفر له ويسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.55 %"
+      }
+    },
+    {
+      "ID": 111,
+      "Text": "الله يرحمه ويغفر له يحسن الله عزاكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "67.77 %"
+      }
+    },
+    {
+      "ID": 112,
+      "Text": "رحمه الله وأسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "84.18 %"
+      }
+    },
+    {
+      "ID": 113,
+      "Text": "الله يرحمه ويغفر له يارب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "62.76 %"
+      }
+    },
+    {
+      "ID": 114,
+      "Text": "الله يرحمه و يغمد روحه الجنه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.98 %"
+      }
+    },
+    {
+      "ID": 115,
+      "Text": "الله يرحمه ويغفرله ويغمد روحه الجنة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "66.98 %"
+      }
+    },
+    {
+      "ID": 116,
+      "Text": "الله يرحمه ويغفرله ويغمد روحه الجنة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "66.98 %"
+      }
+    },
+    {
+      "ID": 117,
+      "Text": "الله يرحمه ويغفر له ويصبر أهله على فراقه.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "56.14 %"
+      }
+    },
+    {
+      "ID": 118,
+      "Text": "رحم الله الاخ العزيز سالم المفرجي وغفر له واسكنه فسيح جناته وألهم اهله وذويه الصبر والسلوان..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "51.1 %"
+      }
+    },
+    {
+      "ID": 119,
+      "Text": "إنا لله وإنا إليه راجعون. \nالله يرحمه ويغفر له ويسكنه فسيح جناته يارب العالمين ولا حول ولاقوة إلا بالله العلي العظيم \nوإلهم أهله وذويه الصبر والسلوان \nإنه سميع مجيب الدعاء",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.63 %"
+      }
+    },
+    {
+      "ID": 120,
+      "Text": "رحمة الله علية وأسكنة فسيح جناته ، سالم رجل خلوق محترم في تعاملة ، نسأل الله لعائلتة الصبر والسلوان .",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "88.52 %"
+      }
+    },
+    {
+      "ID": 121,
+      "Text": "الله يرحمه ويغفر له يا رب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "53.57 %"
+      }
+    },
+    {
+      "ID": 122,
+      "Text": "اللهم اغفر له وارحمه وثبته عند السؤال واجعل قبره روضة من رياض الجنة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "59.9 %"
+      }
+    },
+    {
+      "ID": 123,
+      "Text": "رحمة الله عليه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "85.86 %"
+      }
+    },
+    {
+      "ID": 124,
+      "Text": "الله يغفر له ويرحمه ويصبر أهله وذويه.  كان نعم الرجل خلق وطيب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.09 %"
+      }
+    },
+    {
+      "ID": 125,
+      "Text": "إنا لله وإنا إليه راجعون الله يرحمه ويرحم موتانا وموتا المسليمن يارب العالمين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.92 %"
+      }
+    },
+    {
+      "ID": 126,
+      "Text": "Sad news",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "98.79 %"
+      }
+    },
+    {
+      "ID": 127,
+      "Text": "الله يرحمه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "78.88 %"
+      }
+    },
+    {
+      "ID": 128,
+      "Text": "اللهم اسكنه جنات النعيم اللهم ابدله دار خيرا من داره واهل خيرا من اهله .. اللهم امين",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 129,
+      "Text": "رحمه الله وأدخله فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "76.16 %"
+      }
+    },
+    {
+      "ID": 130,
+      "Text": "ليش نص الشركة قبيلتهم المفرجي؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "95.11 %"
+      }
+    },
+    {
+      "ID": 131,
+      "Text": "اللهم ووسع نزله، وأكرم مدخله، وأجعل مستقره الجنة مع الشهداء والصديقين، اللهم إنا نسألك أن تتغمده برحمتك، وترحمنا إذا صرنا إلى ما صارا إليه السابقين.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "93.08 %"
+      }
+    },
+    {
+      "ID": 132,
+      "Text": "انا لله و انا اليه راجعون .. رحمه الله و غفر له و اسكنه فسيح جناته و الهم ذويه الصبر و السلوان ..",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 133,
+      "Text": "الله يرحمه ويغفرله ويسكنه فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.69 %"
+      }
+    },
+    {
+      "ID": 134,
+      "Text": "سلام علیکم",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 135,
+      "Text": "نسأل الله له المغفرة والرضوان ولاهله الصبر والسلوان \nانا لله وانا اليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "77.67 %"
+      }
+    },
+    {
+      "ID": 136,
+      "Text": "انا لله وانا اليه راجعون تغمد الفقيد بواسع رحمته واسكنه فسيح جناته وان يلهم أهله وذويه الصبر والسلوان ولا حول ولاقوة الابالله العلي العظيم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "74.43 %"
+      }
+    },
+    {
+      "ID": 137,
+      "Text": "إنا لله و انا اليه راجعون البقاء لله وحده \nاللهم اغفر له وارحمه واعف عنه وعافه وأكرم نزله ووسع مدخله واغسله بالماء والثلج والبرد ونقه من الذنوب والخطايا كما ينقى الثوب الأبيض من الدنس وأبدلها دارا خيرا من داره.واهلا خيرا من أهله أن شاء الله وأن يتغمد الفقيد بواسع رحمته ..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "87.55 %"
+      }
+    },
+    {
+      "ID": 138,
+      "Text": "انا لله وانا اليه راجعون.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.55 %"
+      }
+    },
+    {
+      "ID": 139,
+      "Text": "سيظهر الدجال بعد سنوات قليلة من أن يملأ الله سبحانه وتعالى هذا العالم بالرحمة والسلام والسعادة. سيكون وقت الدجال فتنة واختبارًا للعديد من ضعاف الإيمان. لمعرفة المزيد قم بزيارة موقع   أو ابحث عن #MuhammadQasimImamMahdi https:// youtube.com/watch?v=r3mQkE ucXTw …",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "41.84 %"
+      }
+    },
+    {
+      "ID": 140,
+      "Text": "#تسريح_عمال_كنتز_عمان حسبنا الله و نعم الوكيل على كل ضالم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.29 %"
+      }
+    },
+    {
+      "ID": 141,
+      "Text": "لي اكثر من سنتين اريد تدريب معكم \nياخي بس تعبت هذا وانا ادور تدريب لو اريد اتوظف بنتظر لين يبيض الغراب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "39.84 %"
+      }
+    },
+    {
+      "ID": 142,
+      "Text": "وظفونا وبيكون عيدنا عيدين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "89.59 %"
+      }
+    },
+    {
+      "ID": 143,
+      "Text": "هل أنتم فعلا حساب رسمي لشركة PDO؟ لماذا لا تضعون اشارة التوثيق الرسمية على حسابكم هنا إن كنتم تمثلون PDO فعليا ورسميا على تويتر؟ أم أن لديكم ضعف مالي لا يمكنكم بسببه من دفع اشتراك مالي لشركة تويتر؟ هل أنتم حساب ينتحل PDO على تويتر؟ أم ماذا؟\n\nتساؤلات هنا دون إنتظار إجابة هنا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "59.8 %"
+      }
+    },
+    {
+      "ID": 144,
+      "Text": "تقرير| البرنامج الوطني للاستدامة المالية وتطوير القطاع المالي #مركز_الأخبار",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "90.26 %"
+      }
+    },
+    {
+      "ID": 145,
+      "Text": "جـديـد اقوى وافضل أنواع المقويات للعلاقة الزوجية وبكافة الأنواع كريمات تكـبـير حبوب  آمـنـة بـخــاخ اجـهزة للتكــبير علكة  وقطــرات للنساء والمزيد من المنتجات المرغوب بها تواصل معي وستجد ما يسرك قم بزيارة حسابي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "82.24 %"
+      }
+    },
+    {
+      "ID": 146,
+      "Text": "جديد اقوى وافضل أنواع المقويات للعلاقة الزوجية وبكافة الأنواع كريمات تكبير حبوب آمنة بخاخ \n\nاجهزة للتكبير علكة ° وقطرات والمزيد من المنتجات المرغوب بها تواصل معي وستجد ما يسرك قم بزيارة حسابي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "93.33 %"
+      }
+    },
+    {
+      "ID": 147,
+      "Text": "شكرا لكم انتم سند لنا ف تدريب",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 148,
+      "Text": "Hi, I was affected as well as some questions did not load their graphs, I submitted the form but have yet to receive any email regarding a redo of the assessment.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.96 %"
+      }
+    },
+    {
+      "ID": 149,
+      "Text": "I received the email for re-doing the assessment again but there was no clarification about the time that should be completed….can you please clarify?",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.81 %"
+      }
+    },
+    {
+      "ID": 150,
+      "Text": "Most of the rejected emails has no rejection reason , this is not fair at all !!",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.99 %"
+      }
+    },
+    {
+      "ID": 151,
+      "Text": "من وين نجيب الخبره انزين",
+      "Language": "ps",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 152,
+      "Text": "الرجل المناسب في المكان المناسب كل التوفيق أبو خالد،،،،",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.41 %"
+      }
+    },
+    {
+      "ID": 153,
+      "Text": "Mashaallah  great up",
+      "Language": "id",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 154,
+      "Text": "Reply text not available",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.6 %"
+      }
+    },
+    {
+      "ID": 155,
+      "Text": "كل ما ندخل الموقع يطلع في مشكله\nو كل ما نسجل يطلع فيه مشكله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "58.06 %"
+      }
+    },
+    {
+      "ID": 156,
+      "Text": "الإخوة في تنمية نفط عمان:\nشكرًا لكم على تمديد التسجيل في برنامج الخريجين و لكن ما زال هناك الكثير من المستخدمين يواجهون صعوبات في التسجيل بسبب العطل في الموقع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "93.68 %"
+      }
+    },
+    {
+      "ID": 157,
+      "Text": "ثاني تمديد ! شكله ماحد يسجل .. عرفوها سالفة ماحد يرد عليهم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "46.17 %"
+      }
+    },
+    {
+      "ID": 158,
+      "Text": "عطل ف موقع التسجيل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.24 %"
+      }
+    },
+    {
+      "ID": 159,
+      "Text": "التسجيل مسموح لخريجي السنوات الماضية او فقط الخريجين حديثاً؟؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "95.84 %"
+      }
+    },
+    {
+      "ID": 160,
+      "Text": "Congratulations to champions, and well done.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.8 %"
+      }
+    },
+    {
+      "ID": 161,
+      "Text": "اريد اشتغل معكم والله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "82.89 %"
+      }
+    },
+    {
+      "ID": 162,
+      "Text": "OK bro",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "56.11 %"
+      }
+    },
+    {
+      "ID": 163,
+      "Text": "انا لله و انا اليه راجعون \nعسى الله ان يغفر لها و يجعل الجنة مثواها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "61.57 %"
+      }
+    },
+    {
+      "ID": 164,
+      "Text": "انا لله وانا اليه راجعون الله يرحمها ويغفر لها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "95.26 %"
+      }
+    },
+    {
+      "ID": 165,
+      "Text": "Ameen ya rab",
+      "Language": "id",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 166,
+      "Text": "الله يرحمها ويغفر لها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "58.7 %"
+      }
+    },
+    {
+      "ID": 167,
+      "Text": "انا لله وانا اليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.24 %"
+      }
+    },
+    {
+      "ID": 168,
+      "Text": "إنا لله وإنا اليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.7 %"
+      }
+    },
+    {
+      "ID": 169,
+      "Text": "الله يرحمها ويغفر لها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "58.7 %"
+      }
+    },
+    {
+      "ID": 171,
+      "Text": "الله يرحمها ويغفر لها ويسكنها فسيح جناته يارب العالمين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "84.65 %"
+      }
+    },
+    {
+      "ID": 172,
+      "Text": "اسأل الله ان يتغمد الفقيدة بواسع رحمته وأن يسكنها فسيح جناته ويلهم أهلها الصبر والسلوان وانا إلى الله وانا اليه راجعون ولا حول ولاقوة الابالله العلي العظيم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "77.54 %"
+      }
+    },
+    {
+      "ID": 173,
+      "Text": "انا لله وانا اليه راجعون الله يرحمها ويغفر لها ويسكنها فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.14 %"
+      }
+    },
+    {
+      "ID": 174,
+      "Text": "لا حول ولا قوة الا بالله العلي العظيم الله يرحمها ويغفر لها ويسكنها فسيح جناته ويلهم أهلها وذويها الصبر والسلوان وانا لله وانا اليه راجعون يحسن الله عزائكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.99 %"
+      }
+    },
+    {
+      "ID": 175,
+      "Text": "إنا لله وإنا إليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.87 %"
+      }
+    },
+    {
+      "ID": 176,
+      "Text": "الله يرحمها ويغفرلها ويدخلها فسيح جناته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "71.43 %"
+      }
+    },
+    {
+      "ID": 177,
+      "Text": "الله يرحمها ويسكنها فسيح جناته انا لله وانا اليه راجعون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.07 %"
+      }
+    },
+    {
+      "ID": 178,
+      "Text": "What is the methold ti join PDO OM . please contact me .99184548 .I am in oman live in adam . We have diploma of computer . English speaking and BS master . And also known lab technision",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "94.67 %"
+      }
+    },
+    {
+      "ID": 179,
+      "Text": "و هذا ما يعاني منه جل السائقين بالدول العربية ، وهذا راجع إلى عدم التمثال إلى القانون الذي يفرض على سائقي الشاحنات والمعدات الثقيلة باحترام التوقيت و وقف السير أثناء الليل إجباري إلا في حالات الطوارئ القصوى ويجب أن يكون المكلف بمهمة أخذ ذالك اليوم راحة كافية.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "90.53 %"
+      }
+    },
+    {
+      "ID": 180,
+      "Text": "توقعتكم معلقين على حادثة مخيزنه\nعموما مشكورين على التنبيه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "54.46 %"
+      }
+    },
+    {
+      "ID": 181,
+      "Text": "to provide 22 paid training opportunities for people with disabilities in various administrative fields for a year.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.53 %"
+      }
+    },
+    {
+      "ID": 182,
+      "Text": "حسبي الله ونعم الوكيل على كل مسؤل في تسريح شباب #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "65.44 %"
+      }
+    },
+    {
+      "ID": 183,
+      "Text": "@7mlBot",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "50.2 %"
+      }
+    },
+    {
+      "ID": 184,
+      "Text": "Happy Eid Mubarak wishes to all People",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.54 %"
+      }
+    },
+    {
+      "ID": 185,
+      "Text": "والمواطن  الي ساكن في مواقع الامتياز ل شركة PDO شي عطيتوه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "56.53 %"
+      }
+    },
+    {
+      "ID": 186,
+      "Text": "تجنب استخدام الهاتف أثناء السياقة لسلامتك وسلامة الاخرين لانه يعرضك للخطر في اي لحظة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "86.03 %"
+      }
+    },
+    {
+      "ID": 187,
+      "Text": "تجنب استخدام الهاتف أثناء السياقة لسلامتك وسلامة الاخرين لانه يعرضك للخطر في اي لحظة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "86.03 %"
+      }
+    },
+    {
+      "ID": 188,
+      "Text": "جزاك الله خيرا شيخنا الجليل. \nنسأل الله السلامة والعافية للجميع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "84.25 %"
+      }
+    },
+    {
+      "ID": 189,
+      "Text": "والشركات الذي تجبر الموظفين بالدوام بهذي الحراره بدون تشغيل المركبات لتشغيل التكيف ؛وتجبرهم على الأكل في خارج السكن في الحراره والغبار ما يعتبر إتلاف لصحة الموظف؟؟؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.37 %"
+      }
+    },
+    {
+      "ID": 190,
+      "Text": "تنزيل المحتوى الخاص بك!\nSing#up#now#this#link. https:// rb.gy/jn9u",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "91.07 %"
+      }
+    },
+    {
+      "ID": 191,
+      "Text": "تنزيل المحتوى الخاص بك!\nSing#up#now#this#link. https:// rb.gy/jn9u",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "91.07 %"
+      }
+    },
+    {
+      "ID": 192,
+      "Text": "Congratulations",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.09 %"
+      }
+    },
+    {
+      "ID": 193,
+      "Text": "جيش الاحتلال: إصابة 6 جنود إسرائيليين في معارك قطاع #غزة خلال الساعات 24 الماضية",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "59.56 %"
+      }
+    },
+    {
+      "ID": 194,
+      "Text": "في تدريب تخصص هندسه كهربائيه؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.38 %"
+      }
+    },
+    {
+      "ID": 195,
+      "Text": "اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ \nSir g we want a job  in PDO company I am graduated .experience of computer accountend  . And lab technician",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "96.66 %"
+      }
+    },
+    {
+      "ID": 196,
+      "Text": "Did this company have affiliation with https:// pdoproject.com ?",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.77 %"
+      }
+    },
+    {
+      "ID": 197,
+      "Text": "تمنياتنا لكم بالمزيد من التقدم والعطاء ومواكبت كل ماهو جديد ومساهماتكم الكريمة دلاله التطور في الوعي الثقافي لبناءمجتمع متكامل لن يتم ذلك بدو تسافر ومساعدة الجميع فشكرا لكم هذا السعي ورقي الي الامام دائما .",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.37 %"
+      }
+    },
+    {
+      "ID": 199,
+      "Text": "ما مذكور اسماء المقاولين ٩",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "85.13 %"
+      }
+    },
+    {
+      "ID": 200,
+      "Text": "منك نستفيد استاذ فيصل الغنبوصي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "66.21 %"
+      }
+    },
+    {
+      "ID": 201,
+      "Text": "أيضا اليوم في سيح الرول قدم رجال الشرطه من معهد السلامه المروريه محاضرة توعويه لسلامه على الطرق للعاملين في الشركات العامله في سيح الرول",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "90.53 %"
+      }
+    },
+    {
+      "ID": 202,
+      "Text": "دام أنت معهم لازم ف المقدمة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "47.79 %"
+      }
+    },
+    {
+      "ID": 203,
+      "Text": "#تنزيل_الأموال_بواسطة_الروحانيات و باaissorgلزئبق الأحمر والقرآن الكريم\nمتكمن جدا في الكشف عن الكنوز والدفائن البعيدة علاج كل انواع السحر تيسير الامور علاج التابعة و العين فك النحس تنزيل الأموال بواسطة الزئبق الأحمر\nمتكمن جدا في الكشف عن الكنوز والدفائن 00249963211653",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "82.5 %"
+      }
+    },
+    {
+      "ID": 204,
+      "Text": "https:// x.com/aissorg/status /1731589647409512588?t=RczLtgDgZbgWlhvdptns_Q&s=08 …",
+      "Language": "da",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 205,
+      "Text": "نورتوا بلدكم الثانية يا اهل المملكة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "66.09 %"
+      }
+    },
+    {
+      "ID": 206,
+      "Text": "يا مرحبا بأهل المملكة المزيد من التقارب لمستقبل أفضل للجميع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.22 %"
+      }
+    },
+    {
+      "ID": 207,
+      "Text": "كُل التقدير والإِحترام للأعزاء أهل عُمان الغاليه ونشكُركم على حُسن الضيافه والإِستقبال",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "70.31 %"
+      }
+    },
+    {
+      "ID": 208,
+      "Text": "ما شاء الله تبارك الله، منور يا ولد العمة @Badeghaish",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.44 %"
+      }
+    },
+    {
+      "ID": 209,
+      "Text": "Reply text not available",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.6 %"
+      }
+    },
+    {
+      "ID": 210,
+      "Text": "Congratulations",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.09 %"
+      }
+    },
+    {
+      "ID": 211,
+      "Text": "بالتوفيق ان شاء الله بوركة جهودك لكن وظفوا الشباب لو سمحتوا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.36 %"
+      }
+    },
+    {
+      "ID": 213,
+      "Text": "وف أحد الأيام بكون أنا من ضمن القائمة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "63.6 %"
+      }
+    },
+    {
+      "ID": 214,
+      "Text": "#تنزيل_الأموال_بواسطة_الروحانيات و بالزئبق الأحمر والقرآن الكريم\nمتكمن جدا في الكشف عن الكنوز والدفائن البعيدة علاج كل انواع السحر تيسير الامور علاج التابعة و العين فك النحس تنزيل الأموال بواسطة الزئبق الأحمر\nمتكمن جدا في الكشف عن الكنوز والدفائن 00249963211653",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.3 %"
+      }
+    },
+    {
+      "ID": 215,
+      "Text": "مشاركة قيمة بإذن الله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "87.8 %"
+      }
+    },
+    {
+      "ID": 216,
+      "Text": "Hello",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "80.05 %"
+      }
+    },
+    {
+      "ID": 217,
+      "Text": "قوية تعبير نقود الشرق الأوسط في مجال تنمية الموارد البشرية ، لا شك أنكم دفعتوا الكثير لهذا  المعهد لكي يقوم بهذه الدعاية لكم ...",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "78.17 %"
+      }
+    },
+    {
+      "ID": 218,
+      "Text": "Hi",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "57.24 %"
+      }
+    },
+    {
+      "ID": 219,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه ٦بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "62.19 %"
+      }
+    },
+    {
+      "ID": 220,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 221,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 222,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 223,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 224,
+      "Text": "بث مباشر | حفل ختام مهرجان عين للأفلام القصيرة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "98.64 %"
+      }
+    },
+    {
+      "ID": 225,
+      "Text": "#تسريح_عمال_كنتز_عمان حسبنا الله و نعم الوكيل @Kent_Energy @Oman_Shell @Shell @PDO_OM @Oman_GC @Labour_OMAN @ShuraCouncil_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @AlsarhaniHani @Said66375167 @ishaq_aghbari @MuktarOman @abuffan2012 @abu_alyas3",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "49.52 %"
+      }
+    },
+    {
+      "ID": 226,
+      "Text": "في برنامج الفنيين اغلب تخصصات الهندسة مو موجوده في قائمة التخصصات ف الموقع ياريت معالجة المشكله عشان نقدر نقدم وشكرا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.04 %"
+      }
+    },
+    {
+      "ID": 227,
+      "Text": "متى اخر يوم للتقديم؟",
+      "Language": "ug",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 228,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه ٦بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "62.19 %"
+      }
+    },
+    {
+      "ID": 229,
+      "Text": "#تسريح_عمال_كنتز_عمان #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "83.12 %"
+      }
+    },
+    {
+      "ID": 230,
+      "Text": "هل يحق للمتقاعدين التقدم للوظيفة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "98.79 %"
+      }
+    },
+    {
+      "ID": 231,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.42 %"
+      }
+    },
+    {
+      "ID": 232,
+      "Text": "افضل صورة اليوم \n\nالشاب العماني يعمل تحت زخات المطر في موقع أمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "57.05 %"
+      }
+    },
+    {
+      "ID": 233,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.42 %"
+      }
+    },
+    {
+      "ID": 234,
+      "Text": "#تسريح_عمال_كنتز_عمان و الشباب المسرحين من شركة كنتز ما مصيرهم؟! @Kent_Energy @Oman_Shell @Shell @PDO_OM @Oman_GC @Labour_OMAN @ShuraCouncil_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @AlsarhaniHani @Said66375167 @ishaq_aghbari @MuktarOman",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "75.12 %"
+      }
+    },
+    {
+      "ID": 235,
+      "Text": "تدريب وبعدها تسريح للأسف #تسريح_عمال_كنتز_عمان @Hsawaei @shabiba @PDO_OM @Labour_OMAN @Oman_GC @moj_gov @Shell @Kentunionn @Halafmradio @gfow_om @al_wisal @KhuloodAlwai @Kentunionn @RaisiJamalal",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "50.4 %"
+      }
+    },
+    {
+      "ID": 236,
+      "Text": "#تسريح_عمال_كنتز_عمان @Kent_Energy @Oman_Shell @Shell @PDO_OM @Oman_GC @Labour_OMAN @ShuraCouncil_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @AlsarhaniHani @Said66375167 @ishaq_aghbari @MuktarOman @abuffan2012 @abu_alyas3",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "64.98 %"
+      }
+    },
+    {
+      "ID": 237,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.42 %"
+      }
+    },
+    {
+      "ID": 238,
+      "Text": "أقوى مدير @albusaidi67",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.17 %"
+      }
+    },
+    {
+      "ID": 239,
+      "Text": "#تسريح_عمال_كنتز_عمان @Kent_Energy @Oman_Shell @Shell @PDO_OM @Oman_GC @Labour_OMAN @ShuraCouncil_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @AlsarhaniHani @Said66375167 @ishaq_aghbari @MuktarOman @abuffan2012 @abu_alyas3",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "64.98 %"
+      }
+    },
+    {
+      "ID": 240,
+      "Text": "Nice sir g",
+      "Language": "lt",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 241,
+      "Text": "Congrats to them ,, Girl on right on third pic ,,, can i know her name?",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.67 %"
+      }
+    },
+    {
+      "ID": 242,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.42 %"
+      }
+    },
+    {
+      "ID": 243,
+      "Text": "شكرا من القلب لكم ولدعمكم.. #خليجي_زين25",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.36 %"
+      }
+    },
+    {
+      "ID": 244,
+      "Text": "الي سجل احد ردو عليه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "77.66 %"
+      }
+    },
+    {
+      "ID": 245,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 246,
+      "Text": "الافضل توفير فرص عمل لمسرحين عن عمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "66.67 %"
+      }
+    },
+    {
+      "ID": 247,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 248,
+      "Text": "كيف تغريده ما كملت ٤٥ دقيقة وانتهى التسجيل خسارة تغريدتكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "93.16 %"
+      }
+    },
+    {
+      "ID": 249,
+      "Text": "انتهى التسجيل ما شاء الله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "96.45 %"
+      }
+    },
+    {
+      "ID": 250,
+      "Text": "ما وحنا اكتمل العدد",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "67.46 %"
+      }
+    },
+    {
+      "ID": 251,
+      "Text": "Stay Safe",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "52.71 %"
+      }
+    },
+    {
+      "ID": 252,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 253,
+      "Text": "دايما سباقه في دعم الوطن والمجتمع ،،شركه تنميه نفط عمان كل الشكر لكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.01 %"
+      }
+    },
+    {
+      "ID": 254,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 255,
+      "Text": "ما واحينا نسجل\nكتمل العدد",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "40.44 %"
+      }
+    },
+    {
+      "ID": 256,
+      "Text": "ما واحينا نسجل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "50.87 %"
+      }
+    },
+    {
+      "ID": 257,
+      "Text": "اهم شي يوفرو مكان للمشجعين العمانيين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "72.76 %"
+      }
+    },
+    {
+      "ID": 258,
+      "Text": "خلاص فول",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.43 %"
+      }
+    },
+    {
+      "ID": 259,
+      "Text": "سجلنا كان قاصر بس محد رد علينا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "81.49 %"
+      }
+    },
+    {
+      "ID": 260,
+      "Text": "اكتمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "39.78 %"
+      }
+    },
+    {
+      "ID": 261,
+      "Text": "مكتوب تعذر التسجيل .. متحمسين نريد نروح",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "57.33 %"
+      }
+    },
+    {
+      "ID": 262,
+      "Text": "بادرة طيبة تشكرون عليها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "41.41 %"
+      }
+    },
+    {
+      "ID": 263,
+      "Text": "زيدو غيرهن بيعو بترول وزيدو رحلات",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "35.39 %"
+      }
+    },
+    {
+      "ID": 264,
+      "Text": "للاسف شديد ينزل تسجل على طول ما نواحي ينتهي تسجيل واخر شي يلي ساير بتشوفه في مدرجات فقط يتابع ما يشجع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "88.31 %"
+      }
+    },
+    {
+      "ID": 265,
+      "Text": "ع طول اكتمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "68.93 %"
+      }
+    },
+    {
+      "ID": 266,
+      "Text": "شكرا لكم ولدعمكم منتخب الوطن",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.35 %"
+      }
+    },
+    {
+      "ID": 267,
+      "Text": "انا شخصيا سجلت بنجاح ولكن لم يتم التواصل معي ايش السبب؟ \nهل راح استلم التذكرة في المطار؟ @PDO_OM",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "92.73 %"
+      }
+    },
+    {
+      "ID": 268,
+      "Text": "كفو PDO سباقين دائما في المبادرات على قولة العمانيين ما يتمو يتنغنغو عاد اللي يفهما يخبرني ..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "94.2 %"
+      }
+    },
+    {
+      "ID": 269,
+      "Text": "ما واحينا نسجل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "50.87 %"
+      }
+    },
+    {
+      "ID": 270,
+      "Text": "ما نواحي نشارك",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "59.03 %"
+      }
+    },
+    {
+      "ID": 271,
+      "Text": "ربع ساعه وانتهى وقت التسجيل يالله الله يوفق المنتخب بكره",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "67.65 %"
+      }
+    },
+    {
+      "ID": 272,
+      "Text": "!!!!!",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "95.45 %"
+      }
+    },
+    {
+      "ID": 273,
+      "Text": "@osama_zizou10 @S3e2d",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "83.18 %"
+      }
+    },
+    {
+      "ID": 274,
+      "Text": "#تسريح_عمال_كنتز_عمان @Kent_Energy @Oman_Shell @Shell @PDO_OM @Oman_GC @Labour_OMAN @ShuraCouncil_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @AlsarhaniHani @Said66375167 @ishaq_aghbari @MuktarOman @abuffan2012 @abu_alyas3 @Oman_TU_News @alshnfari26",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "63.69 %"
+      }
+    },
+    {
+      "ID": 275,
+      "Text": "كيف انتهى وقت تسجيل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "84.27 %"
+      }
+    },
+    {
+      "ID": 276,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 277,
+      "Text": "واضح نعم ماذا حدث لمتدربين شركة كنتز!! هل تم توظيفهم او تسريحهم!!عن اي طاقه تتحدثون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "91.58 %"
+      }
+    },
+    {
+      "ID": 278,
+      "Text": "أوقفوا #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "84.06 %"
+      }
+    },
+    {
+      "ID": 279,
+      "Text": "#تسريح_عمال_كنتز_عمان و شباب مسرحينهم بدون عمل الان الى متى",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.33 %"
+      }
+    },
+    {
+      "ID": 280,
+      "Text": "#تسريح_عمال_كنتز_عمان @Oman_Shell @Shell @Kentunionn @Halafmradio @shabiba @Oman_TU_News @al_wisal @gfow_om @Oman_GC @moj_gov @Labour_OMAN",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "82.63 %"
+      }
+    },
+    {
+      "ID": 281,
+      "Text": "Lean six sigma in oman now. Your way to become a Quality specialist. \nContact us on 94430302\nالآن منهجية الادارة الرشيقة وستة سيجماء في سلطنة عمان . طريقك لتصبح اختصاصي جودة. يتواجد لدينا نظام الدراسة عن بعد و عن طريق الحضور.\nتواصل معنا على رقم 94430302",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.61 %"
+      }
+    },
+    {
+      "ID": 282,
+      "Text": "بشرى لمن يرغب في نشر بحث علمي في اهم مجلة علمية  محكمة دولية في مصر و الوطن العربي \n  و تسلم خطاب النشر خلال ٢٤ ساعة ب 200 دولار فقط قبل اسعار العام الجديد  250 دولار و البحث باللغة الإنجليزية ب 150 دولار\nالمجلة مصنفة في كلاريفت web of science\nاقوى من سكوبس",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "57.5 %"
+      }
+    },
+    {
+      "ID": 283,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 284,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان والقضايا العمالية المرفوعة من شباب هذا الوطن؟ هل هذا يدل على إمانكم بالشباب وتنمية المهارات لديهم؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "89.1 %"
+      }
+    },
+    {
+      "ID": 285,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 286,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 287,
+      "Text": "ماذا عن #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "94.12 %"
+      }
+    },
+    {
+      "ID": 288,
+      "Text": "حتى احنا تدربنا 3 سنوات من بعدها تسرحنا",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 289,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان ونحن شباب كنتز لسنا من فئة الشباب الطامحين الذين شمرنا سواعدنا لخدمة وطننا في أكبر مشاريعكم النفطيه وبعدها تنازلتم عنّا ؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "91.41 %"
+      }
+    },
+    {
+      "ID": 290,
+      "Text": "ليش ما فيه برامج لحمله الدبلوم الجامعي ؟؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "92.5 %"
+      }
+    },
+    {
+      "ID": 291,
+      "Text": "#تسريح_عمال_كنتز_عمان @Oman_Shell @Shell @Kentunionn @Halafmradio @shabiba @Oman_TU_News @al_wisal @gfow_om @Oman_GC @moj_gov",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "80.24 %"
+      }
+    },
+    {
+      "ID": 292,
+      "Text": "احسنتم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.08 %"
+      }
+    },
+    {
+      "ID": 293,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.42 %"
+      }
+    },
+    {
+      "ID": 294,
+      "Text": "بس ابا وظيفه منكم ولو حارس",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.07 %"
+      }
+    },
+    {
+      "ID": 295,
+      "Text": "You can not green-wash your history of contributions to climate change. You are guilty.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "85.67 %"
+      }
+    },
+    {
+      "ID": 296,
+      "Text": "Assliama alikum sister how are you can you tell me  some about I want a work @pdo_om",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "58.5 %"
+      }
+    },
+    {
+      "ID": 297,
+      "Text": "“Youth” should not have to clean up the mess caused by your oligarch owners. They’re responsible for leaving youth with a catastrophic climate disaster. Youth should sue you into oblivion.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.71 %"
+      }
+    },
+    {
+      "ID": 298,
+      "Text": "Do they know that their kids won’t have a functional or stable planet like they did, because of those who profited from your fossil fuels?",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.74 %"
+      }
+    },
+    {
+      "ID": 299,
+      "Text": "مبدددددددعين بالعمل الجميل",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 300,
+      "Text": "ملحمة رائعة وفقتم الى كل خير",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.93 %"
+      }
+    },
+    {
+      "ID": 301,
+      "Text": "مبدعين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "67.5 %"
+      }
+    },
+    {
+      "ID": 302,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان ⁧ #تسريح_عمال_كنتز_عمان ⁩ @Oman_Shell @Shell @PDO_OM @KhuloodAlwai @00sumy00 @Kent_Energy @N25Abdullah25 @KhuloodAlwai @mahadbaawain",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "82.7 %"
+      }
+    },
+    {
+      "ID": 303,
+      "Text": "Our best wishes Sir",
+      "Language": "de",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 304,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 305,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 306,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 307,
+      "Text": "#تسريح_عمال_كنتز_عمان . @PDO_OM @Labour_OMAN @Oman_Shell @OmanTVGeneral @al_wisal",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "86.37 %"
+      }
+    },
+    {
+      "ID": 308,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان ⁧ #تسريح_عمال_كنتز_عمان ⁩ @Oman_Shell @Shell @PDO_OM @KhuloodAlwai @00sumy00 @Kent_Energy @N25Abdullah25 @KhuloodAlwai @mahadbaawain",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "82.7 %"
+      }
+    },
+    {
+      "ID": 309,
+      "Text": "دعم المؤسسات جيد جدا\nلكن التسريح معيب في حجم شركة كيبرة مثل @PDO_OM #تسريح_عمال_كنتز_عمان #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "70.52 %"
+      }
+    },
+    {
+      "ID": 310,
+      "Text": "@Oman_GC @Labour_OMAN @ShuraCouncil_OM @PDO_OM @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @Oman_shell @bmja22 #تسريح_عمال_كنتز_عمان @Shell",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "85.79 %"
+      }
+    },
+    {
+      "ID": 311,
+      "Text": "جميع الأعمال الروحانية جلب الحبيب علاج المس والعين فك السحر علاج الحسد والرصد رد المطلقات علاج الضعف الجنسي زواج العانس علاج القرين منع الرجال من الزنا علاج الأمراض لتواصل (00249920949093) و\nتنزيل الأموال بالزئبق",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "82.05 %"
+      }
+    },
+    {
+      "ID": 312,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.42 %"
+      }
+    },
+    {
+      "ID": 313,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 314,
+      "Text": "افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "51.69 %"
+      }
+    },
+    {
+      "ID": 315,
+      "Text": "﴿ وَاذْكُر ربّكَ إِذَا نَسِيتَ ﴾\n- سُبحان الله.\n- الحمدلله.\n- الله أكبّر\n- أستغفر الله\n- لا اله الا الله.\n- لاحول ولا قوة الا بالله\n- سُبحان الله وبحمده\n- سُبحان الله العظيم\n-اللهُّم صلِّ وسلِم على نبيُنا مُحمداً ﷺ",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "72.91 %"
+      }
+    },
+    {
+      "ID": 316,
+      "Text": "افريتر ديزل مكينه 6بوسه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "51.69 %"
+      }
+    },
+    {
+      "ID": 317,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 318,
+      "Text": "#تسريح_عمال_كنتز_عمان @Labour_OMAN @PDO_OM",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "87.56 %"
+      }
+    },
+    {
+      "ID": 319,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان ⁧ #تسريح_عمال_كنتز_عمان ⁩ @Oman_Shell @Shell @PDO_OM @KhuloodAlwai @00sumy00 @Kent_Energy @N25Abdullah25 @KhuloodAlwai",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "83.7 %"
+      }
+    },
+    {
+      "ID": 320,
+      "Text": "#تسريح_عمال_كنتز_عمان @Oman_GC @Labour_OMAN @ShuraCouncil_OM @PDO_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @Oman_Shell",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "84.96 %"
+      }
+    },
+    {
+      "ID": 321,
+      "Text": "#تسريح_عمال_كنتز_عمان @Labour_OMAN @Oman_Shell",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "76.82 %"
+      }
+    },
+    {
+      "ID": 322,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 323,
+      "Text": "@PDO_OM لماذا هذا التسريح المجحف بحق شباب شركة @Kent_Energy #تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.17 %"
+      }
+    },
+    {
+      "ID": 324,
+      "Text": "أوقفوا #تسريح_عمال_كنتز_عمان وإجبارهم بإستغلال ظروفهم الحالية; على تجديد عقود مؤقتة بدلا من عقودهم الدائمة\nمع إجحافهم بالآتي ذكره:\nخصومات من رواتبهم تصل الى قرابة النصف.\nالزامهم بتحمل دفعات التأمينات الإجتماعية كاملة وتحميلهم مساهمة الشركة بدلا من أن الشركة أو   MPS office.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "93.02 %"
+      }
+    },
+    {
+      "ID": 325,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 326,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "81.98 %"
+      }
+    },
+    {
+      "ID": 327,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "79.87 %"
+      }
+    },
+    {
+      "ID": 328,
+      "Text": "ربما يجب على @StateAudit_Oman البحث عن من له مصلحة من #تسريح_عمال_كنتز_عمان و الانتفاع من إعطائهم عقودا واهية من بعد عقودهم الدائمة؟؟؟؟؟؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "89.01 %"
+      }
+    },
+    {
+      "ID": 329,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "87.85 %"
+      }
+    },
+    {
+      "ID": 330,
+      "Text": "هل تمت مخاطبة الجمارك @omancustoms",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "87.92 %"
+      }
+    },
+    {
+      "ID": 331,
+      "Text": "اول شغل سعودي ارامكو الحين ايجي عمان ماشاء الله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "71.66 %"
+      }
+    },
+    {
+      "ID": 332,
+      "Text": "#تسريح_عمال_كنتز_عمان @Oman_GC @Labour_OMAN @ShuraCouncil_OM @PDO_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @Oman_Shell @SaidAlshanfar10",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "85.39 %"
+      }
+    },
+    {
+      "ID": 333,
+      "Text": "Is this leading by example?\nPerhaps  down to the rabbit hole!! #تسريح_عمال_كنتز_عمان @Oman_GC @Labour_OMAN @ShuraCouncil_OM @Halafmradio @opal_oman @OmTW",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "66.62 %"
+      }
+    },
+    {
+      "ID": 334,
+      "Text": "لانثق في برامجكم بسبب سوء تخطيط منكم وعشوائية فلعمل والوعود الغير صادقة بعد تدريبكم وعدتم في توظيف شباب كينز في  pdo وkent و OQ وتم رفع سقف طموحنا عاليا ولم يحدث وتم التسريح بكل اقتدار  شكرا من أعماق القلب لقد تم تشتيتنا نحن وعوائلنا بفضلكم #تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "78.22 %"
+      }
+    },
+    {
+      "ID": 335,
+      "Text": "اسلام عليكم ورحمه الله وبركاته انا اول شغل سعودي ارامكو الحين ايجي عمان انا افريتر ديزل مكينه 6بوسه=94919615هذا رقم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "52.35 %"
+      }
+    },
+    {
+      "ID": 336,
+      "Text": "كم وزن النوى المتوقع الحصول عليه من السوق المحلي، و كم نسبة وزن الزيت لوزن النوى.\nكم تكلفة الاستثمار و كم التكلفة التشغيلية و كم قيمة اللتر الواحد.\nو متى نستطيع تعبئة مركباتنا بهذا النوع من الوقود؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "84.78 %"
+      }
+    },
+    {
+      "ID": 337,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 338,
+      "Text": "#تسريح_عمال_كنتز_عمان @Oman_Shell @Oman_GC @moj_gov @Labour_OMAN @Kentunionn",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "78.62 %"
+      }
+    },
+    {
+      "ID": 339,
+      "Text": "أول انتوا على راسه والحين هو على راسكم. سبحان مقلب الاحوال.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "88.77 %"
+      }
+    },
+    {
+      "ID": 340,
+      "Text": "Congratulations",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "98.09 %"
+      }
+    },
+    {
+      "ID": 341,
+      "Text": "متى شركة تنمية نفط عمان تمتثل لتعليمات السلطان هيثم وتوقف البونس ويكون حالها كحال الجميع ؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "73.55 %"
+      }
+    },
+    {
+      "ID": 342,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان #تسريح_عمال_كنتز_عمان ماذا نقول!!",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "66.19 %"
+      }
+    },
+    {
+      "ID": 343,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 344,
+      "Text": "المشروع من جيب الموظف ولكن بتقسيط",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "87.84 %"
+      }
+    },
+    {
+      "ID": 346,
+      "Text": "كيف  يكون هذا المشروع، \nهل مجاني   او يساهم المتقاعد؟؟ \nوكيف نتصل  بهم؟ \nوشكرا.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "98.41 %"
+      }
+    },
+    {
+      "ID": 347,
+      "Text": "من جيب الموظف وكذلك قيمة التركيب اعلى من القيمة السوقية ولكن الميزة في التقسيط وأيضا يحقق مبتغى الشركة في الالتزام الدولي بمتطلبات حماية البيئة او بمعنى ثاني المبادرة في حماية البيئة وتقليل الانبعاثات الضارة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "55.16 %"
+      }
+    },
+    {
+      "ID": 348,
+      "Text": "الشركة الي اوكلتوا لها بالمهمه فاشله، 6 شهور الى الان عشان موافقات ولم يتم الرد حتى الان، لو اعرف كيف اكنسل الطلب كنت بكنسله.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "95.12 %"
+      }
+    },
+    {
+      "ID": 350,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 351,
+      "Text": "#تسريح_عمال_كنتز_عمان @Oman_GC @Labour_OMAN @ShuraCouncil_OM @PDO_OM @shabiba @Halafmradio @gfow_om @AlroyaNewspaper @opal_oman @OmTWT @AlsarhaniHani @Said66375167 @ishaq_aghbari @MuktarOman @abuffan2012 @abu_alyas3 @Oman_TU_News @alshnfari26",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "62.67 %"
+      }
+    },
+    {
+      "ID": 352,
+      "Text": "هي وحده من أثنتين؛ إما هذه البرامج لا تقدم شئ يذكر للخريج أو إنها تعطيه المهارات اللازمة للبدء بالعمل مباشرةً. وإذا كانت فعلا ناجحة فما هو السبب لأن يمضي الخريج بعد ذلك سنة ونصف متدرب (ليس موظف وليس باحث). هل هذا أستغلال من قبل الشركات و تحسين إحصائيات التوظيف ليقال إننا نوظف",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "50.6 %"
+      }
+    },
+    {
+      "ID": 353,
+      "Text": "#تسريح_عمال_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "51.55 %"
+      }
+    },
+    {
+      "ID": 354,
+      "Text": "طيب ليش ما تتعاملو بكل اعمالكم باللغة العربية.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "50.1 %"
+      }
+    },
+    {
+      "ID": 355,
+      "Text": "مبارك لكم هذا الانجاز",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.73 %"
+      }
+    },
+    {
+      "ID": 356,
+      "Text": "Congratulations Team",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.52 %"
+      }
+    },
+    {
+      "ID": 357,
+      "Text": "بارك الله جهودكم شركة نفط عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.39 %"
+      }
+    },
+    {
+      "ID": 358,
+      "Text": "تأخرت كثير  دكتور محمد\n\nاغلب المواقع تدمر بلا حسيب ولا رقيب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.37 %"
+      }
+    },
+    {
+      "ID": 359,
+      "Text": "خطوة جميل ،\nبالتوفيق الدكتور محمد و المركز @MohDtheGeologis",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.47 %"
+      }
+    },
+    {
+      "ID": 360,
+      "Text": "بالتوفيق للدكتور محمد الكندي..\n\nقدوة في العطاء والتفاني..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "94.94 %"
+      }
+    },
+    {
+      "ID": 361,
+      "Text": "لو تم استغلال الغاز الذي يتم حرقه في معظم مواقع شركات النفط وتشغيل الكهرباء بدل الحرق لصار اكتفا من الطاقة الكهربائية بدون تكلفه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.89 %"
+      }
+    },
+    {
+      "ID": 362,
+      "Text": "Great ICV opportunity .. well done for the hidden talents behind this big achievement and looking forward to work with our partner BORETS",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.52 %"
+      }
+    },
+    {
+      "ID": 363,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان1",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "86.87 %"
+      }
+    },
+    {
+      "ID": 364,
+      "Text": "#أوقفوا_تسريح_العمانيين #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "77.6 %"
+      }
+    },
+    {
+      "ID": 365,
+      "Text": "نباركً لبلدية واهالي محافظة ظفار المشروع الذي سوف يسهم في حذب السياح وسوف يساعد على الترفيه لابناء وزوار هذه المحافظه والشكر موصول لشركة تنمية نفط والشركات الداعمه لهذا الصرح الجميل @Dhofar_Gov @DhofarMun @MCDhofar",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.12 %"
+      }
+    },
+    {
+      "ID": 366,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "79.87 %"
+      }
+    },
+    {
+      "ID": 367,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "79.87 %"
+      }
+    },
+    {
+      "ID": 368,
+      "Text": "حسبي الله ونعم الوكيل #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "74.0 %"
+      }
+    },
+    {
+      "ID": 369,
+      "Text": "حسبي الله ونعم الوكيل #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "74.0 %"
+      }
+    },
+    {
+      "ID": 370,
+      "Text": "محتاج الى وظيفة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "86.95 %"
+      }
+    },
+    {
+      "ID": 371,
+      "Text": "فنان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "87.75 %"
+      }
+    },
+    {
+      "ID": 372,
+      "Text": "وظفونا بهذه المناسبة الجميلة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "84.75 %"
+      }
+    },
+    {
+      "ID": 373,
+      "Text": "في خدمه مصالحكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "89.6 %"
+      }
+    },
+    {
+      "ID": 374,
+      "Text": "نعمل من اجل مستقبل افضل لـ عُمـان وأبنائها الأوفياء #فخورون_بخدمة_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.46 %"
+      }
+    },
+    {
+      "ID": 375,
+      "Text": "كملو خيركم وصرفولنا رواتب مباشره منكم بدل عن تاكل حقنا شركات توظيف 75% من راتب حلهم ولنا الفتات",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "93.26 %"
+      }
+    },
+    {
+      "ID": 376,
+      "Text": "السلام عليكم. هذه قائمة بالورش التدريبية المزمع إقامتها في عام 2023.\nHello.  This is a list of training workshops to be held in 2023.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "82.93 %"
+      }
+    },
+    {
+      "ID": 377,
+      "Text": "كم الجائزه؟",
+      "Language": "ug",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 378,
+      "Text": "١٩٦٧",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 379,
+      "Text": "عام1967",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "97.51 %"
+      }
+    },
+    {
+      "ID": 380,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 381,
+      "Text": "عام 1967",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "98.59 %"
+      }
+    },
+    {
+      "ID": 382,
+      "Text": "27\\7\\1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.87 %"
+      }
+    },
+    {
+      "ID": 383,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 384,
+      "Text": "يصادف اليوم الذكرى الـ55 لتصدير أول شحنة نفط خام عمانية، ففي 27 يوليو من عام 1967 صدرت سلطنة عمان أول شحنة من النفط الخام إلى اليابان لأول مرة عبر ناقلة النفط موسبرينس من ميناء الفحل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "97.45 %"
+      }
+    },
+    {
+      "ID": 385,
+      "Text": "50 سنة  ونحن ما زلنا على ريع النقط ...",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "73.58 %"
+      }
+    },
+    {
+      "ID": 386,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 387,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 388,
+      "Text": "قامت شركة #تنمية_نفط_عمان بتصدير أول شحنة نفط بكميات تجارية بالتاريخ ٢٧-يوليو-١٩٦٧ \nJuly 27, 1967 #عماني_968 @PDO_OM",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "98.95 %"
+      }
+    },
+    {
+      "ID": 389,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 390,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 391,
+      "Text": "١٩٦٧",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 392,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 393,
+      "Text": "قامت شركة #تنمية نفط عمان- بتصدير اول شحنة 1967 من حقل فهود",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.22 %"
+      }
+    },
+    {
+      "ID": 394,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 395,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 396,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 397,
+      "Text": "27 يوليو 1967",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.34 %"
+      }
+    },
+    {
+      "ID": 398,
+      "Text": "1967\nاول شحنة نفط",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.15 %"
+      }
+    },
+    {
+      "ID": 399,
+      "Text": "عام1967",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "97.51 %"
+      }
+    },
+    {
+      "ID": 400,
+      "Text": "1967",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.55 %"
+      }
+    },
+    {
+      "ID": 401,
+      "Text": "#عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "89.77 %"
+      }
+    },
+    {
+      "ID": 402,
+      "Text": "ما يميزنا كـ عمانيين هو ادبنا واخلاقنا وحبنا لوطننا وقائدنا جلالة السلطان حباً لا تشوبه مصلحه وغيره انما حب طاهر لما لمسناه منهُ من تفاني في خدمة عُمان واهل عُمان. #عماني_968 #العيد_الوطني_52_المجيد #تنمية_نفط_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.25 %"
+      }
+    },
+    {
+      "ID": 403,
+      "Text": "الخبز العماني، وحلوى. #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "73.41 %"
+      }
+    },
+    {
+      "ID": 404,
+      "Text": "الأخلاق الحسنة والأدب والإحترام والكرم والطيبه والتسامح والتمسك بالتقاليد والعادات والموروث الشعبي و المحافظة على الزي العماني #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "83.72 %"
+      }
+    },
+    {
+      "ID": 405,
+      "Text": "الحديث الشريف الذي أشار به الرسول الكريم إلى اخلاق وطريقة تعامل العمانيين. #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "95.73 %"
+      }
+    },
+    {
+      "ID": 406,
+      "Text": "الاعتزاز بالهوية العمانية\nالأخلاق والطيبة والتسامح \nالعادات والتقاليد الأصيلة #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "58.67 %"
+      }
+    },
+    {
+      "ID": 407,
+      "Text": "عماني يميزني الصبر ع الشدايد * ازتاد قوة ف الامور الشديدة * وحب الوطن والدين ف القلب سايد * والذراع الايمن للحكومة الرشيدة *",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "95.67 %"
+      }
+    },
+    {
+      "ID": 408,
+      "Text": "طيبي وأخلاقي وتسامحي وتعاطفي بيئتي تجربتي الطيبه .شموخي مجدي تاريخي ديني  هذي صفاتي لاني عماني",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "92.06 %"
+      }
+    },
+    {
+      "ID": 409,
+      "Text": "السلام، الاخلاق والمهنية",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.65 %"
+      }
+    },
+    {
+      "ID": 410,
+      "Text": "العماني وعمان كفانا شرفا\" كلام رسول البشرية . العماني مميز بعرقته واصالتة وهويتة . العماني يشار له بالبنان منذ العصور في مختلف المجالات . عمان بلد السلام والوئام . عمان بلد الكرم والتواضع . العماني منذ مئات السنين ترك البصمات في مختلف ابقاع الارض . مكافح وصبور . وقس على ذلك",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "90.64 %"
+      }
+    },
+    {
+      "ID": 411,
+      "Text": "يميزنا  ك #عماني_968 التسامح ، والكرم ، والتمسك بمبادئنا وقيمنا واخلاقنا ، والتمسك بالعادات والتقاليد،  والولاء لهذا الوطن الغالي و سلطانا.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.12 %"
+      }
+    },
+    {
+      "ID": 412,
+      "Text": "ألانتماء والوطنية والشهامة والتقاليد الأصيلة #العيد_الوطني_52_المجيد #تنمية_نفط_عمان #عماني_968 @PDO_OM",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "67.57 %"
+      }
+    },
+    {
+      "ID": 413,
+      "Text": "الملابس الزاهية التقليدية واللهجة العمانية والمباني التراثية والكرم والضيافة و التسامح و الطيبة والأهازيج الشعبية والعادات والتقاليد الي تنفرد بها كل محافظة عن الاخرى و حسن التعايش مع جميع المذاهب بدون طائفية و حب السلطان و بلد الامن و السلام و الامان . #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "86.11 %"
+      }
+    },
+    {
+      "ID": 414,
+      "Text": "حب الوطن هو كلمة السر التي يتميز بها العُماني الأصيل، فلا يمكن أن يُساوم على حب عُمان مهما كان.\nكذلك الصبر هي السِمة التي كان يمشي بها العُماني قنديلًا على هذه الأرض الطيبة فمن شهد نهضة السبعين سيدرك ذلك.\nاخيرًا الزي الوطني الفخم. #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.23 %"
+      }
+    },
+    {
+      "ID": 415,
+      "Text": "~ الذي يميزني كعمانيه أن احفظ ديني وعقلي وأن اكون قدوة لمن حولي وكذلك اثبت هويتي العمانيه التي اتباهى فيها ب احترامي وتقديري لذاتي قبل تقدريهم لي لا يمكن أن اكون عمانيه فقط في جواز سفري أو بطاقة هويتي ~ #عماني_968 #تنمية_نفط_عمان #العيد_الوطني_52_المجيد",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "70.39 %"
+      }
+    },
+    {
+      "ID": 416,
+      "Text": "يتميز العماني بالسمت والتسامح والكرم والتشبت بمبادئهم وقيمهم واخلاقهم  والتمسك بالعادات والتقاليد، والتعايش وعدم التطرف والعنصريه. #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "73.04 %"
+      }
+    },
+    {
+      "ID": 417,
+      "Text": "انا كعماني اتميز بالسمت والهدوء والبشاشة \nمحب للجميع والتواضع اساس كل شي عندي..\n\nومعروف العُماني انسان السلام #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.13 %"
+      }
+    },
+    {
+      "ID": 418,
+      "Text": "الاعتزاز بالهوية العمانية\nالأخلاق والطيبة والتسامح \nالعادات والتقاليد الأصيلة #عماني_968 .\n.\n.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "62.6 %"
+      }
+    },
+    {
+      "ID": 419,
+      "Text": "يميز الإنسان العماني بالتسامح ، والكرم ، والتشبت بمبادئهم وقيمهم واخلاقهم ، والتمسك بالعادات والتقاليد، ويميزني بالكفاءة والاخلاص لهذا الوطن الغالي في القول والعمل، ويميزني بالقوة والكبرياء والمساندة. #عماني_968 سبحان الله وبحمده سبحان الله العظيم\nيااااارب توفيقك",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "96.59 %"
+      }
+    },
+    {
+      "ID": 420,
+      "Text": "الاعتزاز بالهوية العماني الأخلاق والطيبة والتسامح العادات والتقاليد الأصيلة #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "64.89 %"
+      }
+    },
+    {
+      "ID": 421,
+      "Text": "يتميز بطيبة والبساطة والكرم والتواضع والثقافة وحسن الخلق #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "68.06 %"
+      }
+    },
+    {
+      "ID": 422,
+      "Text": "من اليمن شهاده لله ثم لتاريخ ان الشعب العماني من اطيب وانبل الشعوب العربية \nطيب \nاخلاق \nكرم \nنخوه \nالله يحفظكم ياشعب العماني لقد اثبتم للعالم انكم في قمة الأدب والأخلاق شهاده من مقيم على ارض الخير عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.93 %"
+      }
+    },
+    {
+      "ID": 423,
+      "Text": "العماني يتميز بالحفاظ على عاداته وتقاليده...وايضا طيبه واحترمه ..\nوحبه واخلاصه لبلده .. #العيد_الوطني_52_المجيد #تنمية_نفط_عمان #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "91.17 %"
+      }
+    },
+    {
+      "ID": 424,
+      "Text": "#عماني_968 خنجري وصورة السلطان في تلفوني",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "88.68 %"
+      }
+    },
+    {
+      "ID": 425,
+      "Text": "عمانية وأفتخر إني عمانيه\nعمان عشقي \nعمان حبي \nسماءها دفا\nارضها أمن \nسلاطينها عز وفخر وفخامه\nتاريخها فخر طول الزمن\nعمان عز وافتخار للأبد\nعمانية بأخلاقي العاليه #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.52 %"
+      }
+    },
+    {
+      "ID": 426,
+      "Text": "الحكمة والتسامح والهدوء وقائدنا الفذ السلطان هيثم بن طارق حفظه الله ورعاه #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "95.44 %"
+      }
+    },
+    {
+      "ID": 427,
+      "Text": "نمتاز بحسن الخلق والطيبة والكرم والتسامح والتعاون ويكفي ان اهل عمان دعى لهم الرسول صلى الله عليه وسلم بالخير وكذلك الطيبة والكرم وحسن الضيافة. #عماني_968",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "94.06 %"
+      }
+    },
+    {
+      "ID": 428,
+      "Text": "عن الرسول الكريم صلى الله عليه وسلم في ما معناه(لو اتيت اهل عُمان ما سبوك ولا ضربوك)هذا يدل ع تحلي اهل عُمان بالطيبه والكرم والأخلاق الحسنة والاحترام وحب الخير /وحب الوطن والتعاون وكذلك التسامح والعفويه والولاء لسلطان #عماني_968 #العيد_الوطني_52_المجيد #تنمية_نفط_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "96.09 %"
+      }
+    },
+    {
+      "ID": 429,
+      "Text": "#عماني_968 حديث الرسول صلى الله عليه فينا لو اتيت اهل عمان ماسبوك ولا ضربوك\n\nيارب افوز معكم\nJ",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "81.13 %"
+      }
+    },
+    {
+      "ID": 430,
+      "Text": "بالطيبة والأخلاق والگرم وحُسن التعامل ، بحب السلطان وعمان بلا حدود ، بثناء الرسول الكريم لأهل عُمان .. #عماني_968 #العيد_الوطني_52_المجيد #تنمية_نفط_عمان ......",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "86.79 %"
+      }
+    },
+    {
+      "ID": 431,
+      "Text": "هذي الاغنيه ابداع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "68.55 %"
+      }
+    },
+    {
+      "ID": 432,
+      "Text": "الصراحة الاغنية جميلة و حبيتها \n أداء المغنية كان جدا راقي و اللحن جميل و الكلمات حلوة\nشكرا لكم و لكل من ساهم في إبراز هذا العمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.33 %"
+      }
+    },
+    {
+      "ID": 433,
+      "Text": "اغنية جميلة بكلماتها وراقية بلحنها مبهرة بغنائها،  اغنية جميلة واجمل من #راعية_الليسو",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.7 %"
+      }
+    },
+    {
+      "ID": 434,
+      "Text": "دائما متفرد بجمال  الطرب و فريد ومبدع دائما وابدا كلك ذوق",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 435,
+      "Text": "جميل العمل ... بس من وجهة نظري اغنية عمتيه كانت اقوى",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "96.38 %"
+      }
+    },
+    {
+      "ID": 436,
+      "Text": "شكلك تصلح زلتك براعية الليسو",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "80.22 %"
+      }
+    },
+    {
+      "ID": 437,
+      "Text": "ما حبيت العمل،،، كله أغاني ويش الجديد\nView only",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "87.49 %"
+      }
+    },
+    {
+      "ID": 438,
+      "Text": "اسميك امراتآ تخبصها خبص خليت الجيران يضحكوا  علينا عمل زنجباري سواحلي بحت وتقولوا عماني هيش هاذا العمل يا حميد جالسين تمدحها عمل ليس لنا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.1 %"
+      }
+    },
+    {
+      "ID": 439,
+      "Text": "الله يساعدك",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.93 %"
+      }
+    },
+    {
+      "ID": 441,
+      "Text": "ابدعتوا لا تلتفتوا لهم .",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 442,
+      "Text": "تعرفون لما نقول ان هذا الشخص ماله حل \nانت كذا يا حميد \nانت لغز صعب حلّه و بالمفردات العُمانية اللي جالس تختارها في كل اغنية تكتبها جالس تصعّبها ع غيرك في كتابة الشعر خصوصاً في المناسبات الوطنية \nما شاء الله على إحساسك في كل عمل انت الترند الأول و الرقم الصعب معادلته",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "89.89 %"
+      }
+    },
+    {
+      "ID": 443,
+      "Text": "مبدع الله يوفقك",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.34 %"
+      }
+    },
+    {
+      "ID": 444,
+      "Text": "كل عمل اسوأ من الثاني\nبالغصب تريدوه يصير ترند",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.93 %"
+      }
+    },
+    {
+      "ID": 445,
+      "Text": "أبدعت ..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.38 %"
+      }
+    },
+    {
+      "ID": 446,
+      "Text": "جميلة وأنيقة وصوت زمزم ما شاء الله.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.5 %"
+      }
+    },
+    {
+      "ID": 447,
+      "Text": "ربك منحني شي دون الخلايق\nاتبسم بويهك ولو كنت ضايق\nصبور وهادي اشبه بلادي\nاتشبه بأرضها رمل(ن) ووادي\n\n عجيييب يابو خالد",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "90.24 %"
+      }
+    },
+    {
+      "ID": 448,
+      "Text": "ذنوووب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "47.4 %"
+      }
+    },
+    {
+      "ID": 449,
+      "Text": "جمييييل جداً والكلمات   رووووعة وصوت زمزم ماشي مرة مع المفردات فنااااانة \nصحيح \"نتغنّى بـ ألف لهجة ..في عمان وما يسدنّ  \" مرة اخرى يا عبقري حميد وظفت مفردات \nفتح الخط الدولي للسلطنة (تواصل دولي)\n\"وهاعة\" \"وصاني\" \"وخبور\" \"وح ويه\" خط تواصل محلي فناااااان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "90.0 %"
+      }
+    },
+    {
+      "ID": 450,
+      "Text": "تجاوزت المألوف و السائد في #راعية_الليسو و مرة اخرى هندسة @PDO_OM تتطور ل #عماني_968 بعذوبة زمزم البلوشي و",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "56.32 %"
+      }
+    },
+    {
+      "ID": 451,
+      "Text": "دائماً مبدع راعي بلادي كل الامنيات بالتوفيق لكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.48 %"
+      }
+    },
+    {
+      "ID": 452,
+      "Text": "احلى عمل وطني بالنسبالي هالسنة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "96.51 %"
+      }
+    },
+    {
+      "ID": 453,
+      "Text": "ايوه يعرفونا برقم تلفون ياخي ارحموا العماني \nليش محد يعرفه بانجازاته بتاريخه ؟ \nغريب صراحة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.46 %"
+      }
+    },
+    {
+      "ID": 454,
+      "Text": "أنا عماني ويعرفوني عماني",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "68.82 %"
+      }
+    },
+    {
+      "ID": 455,
+      "Text": "اي هذه صح ..\nما #راعية_الليسو",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "83.14 %"
+      }
+    },
+    {
+      "ID": 456,
+      "Text": "شغل جميل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "89.41 %"
+      }
+    },
+    {
+      "ID": 457,
+      "Text": "استمروا في عطائكم ، ومن مهرجانات الاعياد الوطنية خذوا نهجكم والثرات بدا بندثر",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "55.14 %"
+      }
+    },
+    {
+      "ID": 458,
+      "Text": "كلمات الاغنية جميله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.09 %"
+      }
+    },
+    {
+      "ID": 459,
+      "Text": "حبيييت هالمرة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "66.12 %"
+      }
+    },
+    {
+      "ID": 460,
+      "Text": "تحية لك وللفريق الذي يعمل معك  مع تعظيم سلام في يوم زهونا وفخرنا #العيد_الوطني_52 انها نقله نوعيه بل وجذريه من النمط السائد للحن والمفردات والمشهد والخلفية.\nبلا شك ان رضا الناس جميعاً غايه تدرك\nلكنني احييك وادعو لك بالتوفيق",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.24 %"
+      }
+    },
+    {
+      "ID": 461,
+      "Text": "عبقري الكلمة والسهل الممتنع \nفعلا هنا سأسكت قليلا \nاحتراما وتقديرا لهذا الابداع",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "49.33 %"
+      }
+    },
+    {
+      "ID": 462,
+      "Text": "هنيه يوم تبا هنيه فازت بقلبي هالاغنية الجميلة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.45 %"
+      }
+    },
+    {
+      "ID": 463,
+      "Text": "جمييييل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "93.05 %"
+      }
+    },
+    {
+      "ID": 464,
+      "Text": "يميزنا اذا بتوظفونا معكم....واحلال العماني مكان الوافد معكم...",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "45.46 %"
+      }
+    },
+    {
+      "ID": 465,
+      "Text": "من فاز بالمسابقة؟\n ماسحبتو؟",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 466,
+      "Text": "صبور جدا جدا لدرجة ماتتخيل",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 467,
+      "Text": "\"عرب عمان يتصفون بالتهذيب والود والكرم والنخوة في تعاملهم مع بعضهم البعض ومع الغرباء أيضا، وتصرفاتهم في غاية النزاهة إلى درجة مبالغ فيها، ولا يؤخذ أي قرار مباشرة قبل عرضه على الجميع\".\n\n- باد تبرج\nرئيس بعثة هولندا إلى عمان عام 1672م.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.73 %"
+      }
+    },
+    {
+      "ID": 468,
+      "Text": "ليش ما توفروا وظائف للاخصائيين الاجتماعيين المفترض لكل ٢٠٠عامل اخصائي اجتماعي؟",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 469,
+      "Text": "بمناسبة اليوم الوطني المجيد. موظفين شركة كنتز تصلهم رسائل بتسريحم من العمل. شكرا تنمية نفط عمان.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "71.65 %"
+      }
+    },
+    {
+      "ID": 470,
+      "Text": "العماني يتميز بشي غير متوفر فكل شعوب العالم ..\nاهل الكرم معروفين بالخير \nعرقهم الاصيل الممّتد الى أعماق الارض \nثقافتنا السائده\nالعماني يده يد وحده مع كل اخوانه\nالعماني يبغا الخير لاخوه \nالعماني تاريخ سطره الراحل (قابوس بن سعيد طيب الله ثراه)",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.26 %"
+      }
+    },
+    {
+      "ID": 471,
+      "Text": "لا حول ولا قوة الا بالله العلي العظيم #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "62.71 %"
+      }
+    },
+    {
+      "ID": 472,
+      "Text": "محد رقانا ٢٠١٤",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 473,
+      "Text": "صوتها حلو",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.91 %"
+      }
+    },
+    {
+      "ID": 474,
+      "Text": "#العيد_الوطني_52_المجيد",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "79.48 %"
+      }
+    },
+    {
+      "ID": 475,
+      "Text": "ليش هشركة تحايلت على أوامر السلطان والبونس ما زال يمشي معهم بس غيروا مسماه ؟\nليش ما تحترم أوامر السلطان هيثم ؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "94.93 %"
+      }
+    },
+    {
+      "ID": 476,
+      "Text": "الله يحفظ عمان واهلها الطيبين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.23 %"
+      }
+    },
+    {
+      "ID": 477,
+      "Text": "انتم تمتلكون مناطق الامتياز  ف عبري\nولم تسهمو في تطوير الولايه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "49.39 %"
+      }
+    },
+    {
+      "ID": 478,
+      "Text": "العماني ينقصه زيادة رواتب والتوظيف\nوالله بيبدع في كل مجال",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.24 %"
+      }
+    },
+    {
+      "ID": 479,
+      "Text": "معي شاهدة امن وسلامه +ليسن+جواز +بطاقة غاز اتمنى ان اجد وظيفة في شركتكم الموقره كي اعيل اسرتي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "88.52 %"
+      }
+    },
+    {
+      "ID": 480,
+      "Text": "يميز لعماني\nباحث عن عمل\nمسرح من العمل\nمديون للنخاع \nالبنك يطالبه بتسديد القسط\nالمحكمة تأمر بحبسة\nعايش الفقر بكل انواعة\nليس لديه دخل                                                    ومصدق مقولة الخير جاي ٢٠٤٠",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.87 %"
+      }
+    },
+    {
+      "ID": 481,
+      "Text": "يميزه أفكاره و تطلعاته\nالإنسان العماني يميزه اخلاصه وحبه  لوطنه وسلطانه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "86.92 %"
+      }
+    },
+    {
+      "ID": 482,
+      "Text": "معي شكوه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.31 %"
+      }
+    },
+    {
+      "ID": 483,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "79.87 %"
+      }
+    },
+    {
+      "ID": 484,
+      "Text": "الطيبه والكرم والأخلاق الحسنة والاحترام وحب الخير وحب الوطن وقائد الوطن وكذلك التسامح والعفويه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "91.68 %"
+      }
+    },
+    {
+      "ID": 485,
+      "Text": "تقليدي والموسيقى مزعجة واللحن شائع،",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.54 %"
+      }
+    },
+    {
+      "ID": 486,
+      "Text": "رواتبهم ٣٢٥\nسواء كان ما يعرف يقرأ ويكتب\nأو كان عنده شهادة دكتوراه\n\n٣٢٥ ريال قانوني بفضل الحكومة المتمثلة في وزارة العمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "92.24 %"
+      }
+    },
+    {
+      "ID": 487,
+      "Text": "للأسف لا زالت الرقابة على الشركات الحكومية دون مستوى الطموح وهذا ينذر بمشاكل اقتصادية ومالية على المستويين القريب والبعيد\nينبغي مراجعة ونشر تقييم نتائج رؤية 2040 كل 4 سنوات على الأقل ..\nس2 هل سبق ورفض مجلس الشورى مشروع الموازنة السنوية المقدم من قبل الحكومة أو عدلها على الأقل؟!",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "93.81 %"
+      }
+    },
+    {
+      "ID": 488,
+      "Text": "انا مهندس ميكانيك بدي فيزا عمل عمري ٢٧ من سورايا",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 489,
+      "Text": "عمل مميّز",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.21 %"
+      }
+    },
+    {
+      "ID": 490,
+      "Text": "سلام عليكم اخوي بغيت اسأل توظفون ناس من دول الخليج ؟ يعني الكويت مثلا واذا في مجال للتوظيف شنو المتطلبات الازمه للوظيفه اتمنى الاجابه وشكرا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "94.35 %"
+      }
+    },
+    {
+      "ID": 491,
+      "Text": "انه يرى الخير في بلده يذهب لغيره",
+      "Language": "ps",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 492,
+      "Text": "عرف العالم عُمان عبر تاريخها العريق والمشرّف، کیانا حضاريا فاعلا، ومؤثرا في نماء المنطقة وازدهارها، واستتباب الأمن والسلام فيها”، يضعنا أمام دور الأخلاق في رسم هذه المعالم التي جاد بها عاطر النطق السامي لجلالة السلطان المعظم، فإن أخلاق العُمانيين وسيرتهم الحسنة في العالمين.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.41 %"
+      }
+    },
+    {
+      "ID": 493,
+      "Text": "حسبي الله ونعم الوكيل #تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "74.0 %"
+      }
+    },
+    {
+      "ID": 494,
+      "Text": "الصبر والتحمل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "62.45 %"
+      }
+    },
+    {
+      "ID": 495,
+      "Text": "سؤال يحتاج الى مراجع وكتب ومؤرخين ومثقفين من ذوي الخبرة والبعيدين عن التطبيل والاطراء. ان يميز العماني وشكل تحولا كبيرا جدا في حياته السياسية والاجتماعية والشخصية لايمكن وصفه بسطرين او حتى كتابين العماني وطن وعمان العماني",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.08 %"
+      }
+    },
+    {
+      "ID": 496,
+      "Text": "هل بإمكاني التواصل معكم؟؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.45 %"
+      }
+    },
+    {
+      "ID": 497,
+      "Text": "يميزه انه متمسك بالاخلاق الفاضله والعادات والتقاليد مثل الكرم والتعاون وهذا الانطباع تجده في كل من يزور عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "89.3 %"
+      }
+    },
+    {
+      "ID": 498,
+      "Text": "الكرم والتواضع وطيبة القلب والشهامة والمروة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "95.62 %"
+      }
+    },
+    {
+      "ID": 499,
+      "Text": "يختلف بالبس \nالثوب والطاقيه \nوالهجه وشعب \nطيب",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "78.93 %"
+      }
+    },
+    {
+      "ID": 500,
+      "Text": "096894919615",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "96.25 %"
+      }
+    },
+    {
+      "ID": 501,
+      "Text": "هاذي الشركه اتمنى يكون فيها تحديث للموظفين",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "47.83 %"
+      }
+    },
+    {
+      "ID": 502,
+      "Text": "#تسريح_موظفي_شركة_كنتز_عمان",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "79.87 %"
+      }
+    },
+    {
+      "ID": 503,
+      "Text": "العُماني ادب و اخلاق و تواضع \nافتخر دائما اني عماني",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 504,
+      "Text": "جو العماني بالكرم سوا قهوب\nينهل همايل بالمخايل مغزره\nيلوي المصر عاداته من شرق وجنوب\nسيف ف يمينه والمحازم خنجره\nساعة لفاه الداعي للغية زهوب\nرزحة وقصافي المحافل حاضرة\n\nرزحة لال العود\n\nموسى سليم الرحبي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "71.7 %"
+      }
+    },
+    {
+      "ID": 505,
+      "Text": "يميزه انه الخليجي الوحيد لي يتم تسريحه ويستقدم وافد من اللوبي المعروف ملتفا على قوانين العمل وينتهي به المطاف فاتح بسطه عشان يسدد التزاماته.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "60.95 %"
+      }
+    },
+    {
+      "ID": 506,
+      "Text": "نبارك لكم باليوم لوطني وكل عام وانتم بخير (عائلة متعففه بحاجة لتسديد إيجارات متاخره و تسديد ف.واتير الكهرباء قبل فصلها وكذلك فاتورة الماء .وراشن البيت)",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "94.29 %"
+      }
+    },
+    {
+      "ID": 507,
+      "Text": "هذه الشركة مرفوع عنها القلم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "87.94 %"
+      }
+    },
+    {
+      "ID": 508,
+      "Text": "بوركت جهودكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.33 %"
+      }
+    },
+    {
+      "ID": 509,
+      "Text": "ابداع",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 510,
+      "Text": "الهوية الوطنية العمانية بجميع تفاصيلها تعبر عن كل ما يحمله المواطن لوطنه من حب و ولاء  لما قدمه هذا الوطن على الصعيد المهني والاقتصادية والاجتماعي والسياسي كلها جوانب اعادة للشعب الشعور بالاستقرار والراحة و الولاء والانتماء لهذا الوطن، شكرا تنمية نفط عمان على هذه التغريدة المعززه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.41 %"
+      }
+    },
+    {
+      "ID": 511,
+      "Text": "قيمكم هي هويتكم وعبّروا عنها بطريقتكم وقد أحببنا عمان قبلكم وهي في قلبنا أغلى من غلاها في قلبكم والعود لا يمثلنا وإنما هذا شأنكم وإن كان التعبير بالعود فقد ساء في حُب عُمان تعبيركم.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "91.95 %"
+      }
+    },
+    {
+      "ID": 512,
+      "Text": "اللي يسوي عمل بمناسبة العيد الوطني لازم اغنية . نتمني التفكير خارج الصندوق",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "78.76 %"
+      }
+    },
+    {
+      "ID": 513,
+      "Text": "هويتكم دق العود؟!",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "65.47 %"
+      }
+    },
+    {
+      "ID": 514,
+      "Text": "يتكلموا عربي؟!\nمرتين اعيد الفيديو ولا فهمت كلمه!!!!",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "97.58 %"
+      }
+    },
+    {
+      "ID": 515,
+      "Text": "هاعه وتهاييه راعية الليسو",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "98.68 %"
+      }
+    },
+    {
+      "ID": 516,
+      "Text": "هويتنا انكم توظفو العماني وتراقبو الشركات الي تتعاقد معاكم ف الصحراء الي تارسه هنود\nفال هويتنا قال",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "91.36 %"
+      }
+    },
+    {
+      "ID": 517,
+      "Text": "هوينتا ليست موسيقية أو طربية\nهويتنا كما قال سيد البشر صلوات ربي وسلامه عليه (لو أنَّ أهل عُمان أتيت ما سبوك ولا ضربوك\")",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "62.24 %"
+      }
+    },
+    {
+      "ID": 518,
+      "Text": "بغيت اغني معكم في دوام",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "55.49 %"
+      }
+    },
+    {
+      "ID": 519,
+      "Text": "Reply text not available",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.6 %"
+      }
+    },
+    {
+      "ID": 520,
+      "Text": "مافاهم",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 521,
+      "Text": "ويش هذا بالظبط",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 522,
+      "Text": "بصراحه كثير عليكم هالعمل هههه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "88.42 %"
+      }
+    },
+    {
+      "ID": 523,
+      "Text": "شي وظائف معكم ؟",
+      "Language": "ur",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 524,
+      "Text": "في الانتظار",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "76.68 %"
+      }
+    },
+    {
+      "ID": 525,
+      "Text": "ابصراحه العمل جدا جميل من كلمات ولحن وصوت زمزم .. شكراا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.24 %"
+      }
+    },
+    {
+      "ID": 526,
+      "Text": "نحن محشومين عن تكون قيمنا وهويتنا عبارة عن دق عود",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "36.08 %"
+      }
+    },
+    {
+      "ID": 527,
+      "Text": "Reply text not available",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "99.6 %"
+      }
+    },
+    {
+      "ID": 528,
+      "Text": "مافهمت غير كلمة عماني يعرفوني عماني \nهذا طبعا بعد 3 مرات اسمعها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.84 %"
+      }
+    },
+    {
+      "ID": 529,
+      "Text": "أسوى أغنيه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "59.77 %"
+      }
+    },
+    {
+      "ID": 530,
+      "Text": "اجازة العيد الوطني",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "95.71 %"
+      }
+    },
+    {
+      "ID": 532,
+      "Text": "ابداع",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 533,
+      "Text": "على ذكرو الأشخاص اللي اشتغلو على المونتاج",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "91.59 %"
+      }
+    },
+    {
+      "ID": 534,
+      "Text": "قيمنا هويتنا..والبترول والتوظيف في يدينا..والبونس والعلاوات في كروشنا..وفلوسكم في جيوبنا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "92.24 %"
+      }
+    },
+    {
+      "ID": 535,
+      "Text": "﴿ وَاذْكُر ربّكَ إِذَا نَسِيتَ ﴾\n- سُبحان الله.\n- الحمدلله.\n- الله أكبّر\n- أستغفر الله\n- لا اله الا الله.\n- لاحول ولا قوة الا بالله\n- سُبحان الله وبحمده\n- سُبحان الله العظيم\nاللَّهُمَّ صلِّ وسلِم على نبينا محمد",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "75.51 %"
+      }
+    },
+    {
+      "ID": 536,
+      "Text": "منور الغريبي",
+      "Language": "ps",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 537,
+      "Text": "Congratulations Team",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.52 %"
+      }
+    },
+    {
+      "ID": 539,
+      "Text": "We thank the Petroleum Development of Oman (PDO) for the opportunity to showcase JSRS in PDO’s Pavilion at the ADIPEC 2022 event.\n\nJoin us at the PDO Pavilion 4430 in Hall No. 4, and clarify your queries on JSRS. We look forward to serving you.",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "97.63 %"
+      }
+    },
+    {
+      "ID": 540,
+      "Text": "مباركين استاذه @AsilaAsilaAsila ومنها للأعلى",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "58.11 %"
+      }
+    },
+    {
+      "ID": 541,
+      "Text": "ما شاء الله مباركين جميعا.. ونبارك لفريق مدرسة حفصة بنت عمر هذا الإنجاز ونرجو لهم دوام التوفيق والنجاح.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.4 %"
+      }
+    },
+    {
+      "ID": 542,
+      "Text": "وفق الله وسدد خطاهم َجعل النجتح حليفهم.. والعقبى لجميع الطالبات والطلبه..",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.93 %"
+      }
+    },
+    {
+      "ID": 543,
+      "Text": "نهنئ مدارس الولاية المتأهلة للتصفية النهائية",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "96.27 %"
+      }
+    },
+    {
+      "ID": 544,
+      "Text": "ظفار ماشي",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "48.9 %"
+      }
+    },
+    {
+      "ID": 545,
+      "Text": "مبارك استاذ عبدالله الهاشمي والطالب اليزيد العبري مدرسه بهلاء للتعليم الأساسي محافظة الداخلية والشكر موصول لإدارة مدرسة بهلاء للتعليم الأساسي والاستاذ صالح اليحيائي مدير المدرسة والاستاذ على الهميمي مساعد المدير وكل الهيئة التدريسية والإدارية للتعاون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "66.2 %"
+      }
+    },
+    {
+      "ID": 546,
+      "Text": "محد شمال الشرقية",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "63.88 %"
+      }
+    },
+    {
+      "ID": 547,
+      "Text": "شباب  عمان  هم  المستقبل",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 548,
+      "Text": "yeah man",
+      "Language": "id",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 549,
+      "Text": "الشباب هم سواعد الوطن",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 550,
+      "Text": "كلمة ظلم لا تعطي من يعمل في الشركات حقهم. أمر محزن ان يكون هناك فرق وتميز في قانون التقاعد للعمانيين. الدستور العماني يقول العمانيين متساوون في الحقوق والواجبات.لكن الواقع يقول غير ذلك فهناك من يعمل20سنة ويتقاعدب80٪من راتبه وهناك من يعمل25سنة ويستلم أقل من55٪أين العدل؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.39 %"
+      }
+    },
+    {
+      "ID": 551,
+      "Text": "سلام عليكم شي وضايف؟؟",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "76.23 %"
+      }
+    },
+    {
+      "ID": 552,
+      "Text": "ما شاء الله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "70.79 %"
+      }
+    },
+    {
+      "ID": 553,
+      "Text": "لو سمحتم هل أتنزلوا وظايف هذه السنه؟\nفي السنوات الماضيه كنتم تنزلوا في شهر ١٠",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "73.58 %"
+      }
+    },
+    {
+      "ID": 554,
+      "Text": "@NasserSuleimanQ",
+      "Language": "de",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 555,
+      "Text": "جلالة السلطان المعظم - حفظه الله - يصدر مرسوما سلطانيا ساميا رقم 4 / 2024 بالتصديق على اتفاقية الخدمات الجوية بين حكومة سلطنة عمان وحكومة جمهورية رواندا.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "99.36 %"
+      }
+    },
+    {
+      "ID": 556,
+      "Text": "جزاكم الله خير على التهنئة \nاذا كانت باحث عليكم بتوظيفها ودعمها في تحقيق هدفها وبحثها",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.16 %"
+      }
+    },
+    {
+      "ID": 557,
+      "Text": "وين المسووول هنا",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "51.25 %"
+      }
+    },
+    {
+      "ID": 558,
+      "Text": "يوم أحالهن و البقية أحال من؟! No hard feelings please",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "56.53 %"
+      }
+    },
+    {
+      "ID": 559,
+      "Text": "سلام ما نفت برای فروش داریم لطفا به ما اطلاع بدید در صورت نیاز",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 560,
+      "Text": "وظفونا معكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "55.08 %"
+      }
+    },
+    {
+      "ID": 562,
+      "Text": "الأخوة الأعزاء ب @PDO_OM شكرا جزيلا كونكم أول مؤسسة تدعم الحملة... مؤسسة تؤمن بالوقوف مع المبتكرين .. بوركت جهودكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "98.12 %"
+      }
+    },
+    {
+      "ID": 563,
+      "Text": "تم التصويت",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "82.05 %"
+      }
+    },
+    {
+      "ID": 564,
+      "Text": "#صوتي_سمية #بنت_الخليج_تتأهل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "41.64 %"
+      }
+    },
+    {
+      "ID": 565,
+      "Text": "#صوتي_سمية",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "84.61 %"
+      }
+    },
+    {
+      "ID": 566,
+      "Text": "الله يوفقها بنجاح والفوز أن شاء الله",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.31 %"
+      }
+    },
+    {
+      "ID": 567,
+      "Text": "تم التصويت",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "82.05 %"
+      }
+    },
+    {
+      "ID": 568,
+      "Text": "تم التصويت",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "82.05 %"
+      }
+    },
+    {
+      "ID": 569,
+      "Text": "تم التصويت",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "82.05 %"
+      }
+    },
+    {
+      "ID": 570,
+      "Text": "ودشّنت الشركة بالشراكة مع وزارة التربية والتعليم منصةً تعليمية تفاعلية حول الطاقة المتجددة تتضمن وسائل تعليمية مختلفة تزود طلبة المدارس بالمعرفة العلمية في هذا المجال.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "87.75 %"
+      }
+    },
+    {
+      "ID": 572,
+      "Text": "#عمان ديكوريشن لسنا الوحيدين ولكننا الأفضل في عالم الديكور أجعل من بيتك أنيق يليق بك وعائلتك مع بديل #الخشب و #الحجر الكوري ضمان مدى الحياة #ديكورات_حديثة #تصميم_داخلي #سلطنة_عمان #مسقط #ديكورات_داخلية #الخاصية_الجديدة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.2 %"
+      }
+    },
+    {
+      "ID": 574,
+      "Text": "#عمان ديكوريشن لسنا الوحيدين ولكننا الأفضل في عالم الديكور أجعل من بيتك أنيق يليق بك وعائلتك مع بديل #الخشب و #الحجر الكوري ضمان مدى الحياة #ديكورات_حديثة #تصميم_داخلي #سلطنة_عمان #مسقط #ديكورات_داخلية #الخاصية_الجديدة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.2 %"
+      }
+    },
+    {
+      "ID": 575,
+      "Text": "ماتبو توظفونا",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 576,
+      "Text": "فوز مستحق حقيقه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "97.19 %"
+      }
+    },
+    {
+      "ID": 577,
+      "Text": "نبارك لشركة تنمية نفط عمان @PDO_OM فوزها المستحق عن جدارة بجائزة المركز الأول في فئة \"قطاع الطاقة\"",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "92.87 %"
+      }
+    },
+    {
+      "ID": 578,
+      "Text": "بالتوفيق والفلاح PDO \nلا ضير ،انتم مدرسة العمل الاجتماعي والطاقة",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "94.55 %"
+      }
+    },
+    {
+      "ID": 579,
+      "Text": "مبروك لكم الفوز \nتستاهلوا فانتم متميزون",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.32 %"
+      }
+    },
+    {
+      "ID": 580,
+      "Text": "رائع ونحن #فخورن_بخدمة_عمان Suuuuper #ProudToServeOman",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.51 %"
+      }
+    },
+    {
+      "ID": 581,
+      "Text": "بالمبارك عليكم وهذا ليس غريب عليكم",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.57 %"
+      }
+    },
+    {
+      "ID": 583,
+      "Text": "ألف مبارك لكم أيها الأخوه والاخوات الأعزاء في شركة تنمية نفط عمان تستاهلو هذا التكريم ونسأل الله لكم التوفيق والنجاح دائما",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.16 %"
+      }
+    },
+    {
+      "ID": 584,
+      "Text": "مباركين وتستحقون كل خير\nفعطائتكم الكريمه لها أثرها الطيب على نفوس محتاجيها فلكم جزيل الشكر والتقدير والاحترام.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "positive",
+        "Score": "99.38 %"
+      }
+    },
+    {
+      "ID": 585,
+      "Text": "يستاهلوا كل خير",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "46.72 %"
+      }
+    },
+    {
+      "ID": 586,
+      "Text": "Congratulations to whole Team",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "POSITIVE",
+        "Score": "99.67 %"
+      }
+    },
+    {
+      "ID": 587,
+      "Text": "لا انصح اي شخص بالدوام في pdo اذا كانت البدائل الاخرى موجوده.\nلان النظام الصحي فيها جدا تعبان مقارنه ب الشركات الاخرى.\nصبع منكسر و يقولك روح مستشفى حكومي لان الجبس ب ٤٠ ريال.\nشركه نفطيه تعبانه",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "99.51 %"
+      }
+    },
+    {
+      "ID": 588,
+      "Text": "مساء الخير فيه وظيفة مذكورة فالبوست بس يوم ابا أسجل فيها ما احصلها ليش",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "59.73 %"
+      }
+    },
+    {
+      "ID": 589,
+      "Text": "كيف طريقه التسجيل في موقعهم ،احاول اسجل كذا مره بس مايصير",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "81.81 %"
+      }
+    },
+    {
+      "ID": 590,
+      "Text": "هذه الوظيفه ما موجودة بقائمة  التسجيل",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "52.0 %"
+      }
+    },
+    {
+      "ID": 591,
+      "Text": "@7ml_vid",
+      "Language": "en",
+      "Sentiment": {
+        "Label": "NEGATIVE",
+        "Score": "55.96 %"
+      }
+    },
+    {
+      "ID": 592,
+      "Text": "كِل وأنا حي @bojlee7",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "neutral",
+        "Score": "46.24 %"
+      }
+    },
+    {
+      "ID": 593,
+      "Text": "سجلت الحمدلله .. ولكن خلال ثانيه وحده جاء رد انه ما مقبول! عالاقل اقراؤ cover letter \nاللي انا لي اسبوع اكتبها وارفق الشهادات والحاله.\n\nفالنهايه ما شفتوا عليهن",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "56.44 %"
+      }
+    },
+    {
+      "ID": 594,
+      "Text": "عندي مشكلة في موقع PDO... نسيت الرقم السري وما قادر اعمل إعادة تفعيل الرقم السري",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "96.08 %"
+      }
+    },
+    {
+      "ID": 595,
+      "Text": "بس 23",
+      "Language": "fa",
+      "Sentiment": {
+        "Label": "Unknown",
+        "Score": null
+      }
+    },
+    {
+      "ID": 596,
+      "Text": "تعبت لي خمس مرات اقدم على وظيفة مستشار ما يردوا علينا حتى.",
+      "Language": "ar",
+      "Sentiment": {
+        "Label": "negative",
+        "Score": "85.68 %"
+      }
+    }
+  ]
+}

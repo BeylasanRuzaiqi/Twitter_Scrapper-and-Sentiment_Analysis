@@ -47,3 +47,8 @@ Send2Trash==1.8.2
 terminado==0.18.0
 websocket_client==1.7.0
 json5==0.9.14
+
+#sentiment anaylsis
+flair==0.9
+transformers==4.12.2
+langid==1.1.6
