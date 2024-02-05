@@ -127,5 +127,5 @@ Project Link: [https://github.com/BeylasanRuzaiqi/Twitter_Scrapper-and-Sentiment
 [forks-url]: https://github.com/BeylasanRuzaiqi/Twitter_Scrapper-and-Sentiment_Analysis/network/members
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/beylasanalruzaiqi/
-[py]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw3y5TT8XPtYT_JcBRRFfoYA&ust=1707119936448000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCP8r2bkYQDFQAAAAAdAAAAABAE
+[py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://python.org
