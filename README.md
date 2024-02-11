@@ -12,7 +12,7 @@
 <h3 align="center">Twitter Scrapper and Sentiment Analysis</h3>
 
   <p align="center">
-    This python project scraps tweets and replies of a specific twitter profile without API restrictions. It also performs sentiment analysis using pre-trained models.
+    This python project scraps tweets and replies of a specific twitter profile.
     <br />
     <a href="https://github.com/BeylasanRuzaiqi/Twitter_Scrapper-and-Sentiment_Analysis/issues">Report Bug</a>
     ·
